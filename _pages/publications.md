@@ -14,7 +14,7 @@ the presence of parents or a spouse and, (ii) having fewer children and delaying
 
 **Presentation**: IMERA-AMSE Workshop in Gender inequalities (Marseille, France), Development Reading Group, Boston University (Boston MA, USA), Graduate Workshop in Economic History at Harvard University (Cambridge MA, US), World Cliometrics Conference (Dublin, Ireland), LAGV (Marseille, France), AFSE (Paris, France), FRESH Workshop (Cologne, Germany), IRES Lunch Seminar (Louvain, Belgium), Lewis Lab Graduate Student Workshop  (Manchester, England), AMSE PhD Seminar 2023 (Marseille, France).
 
-**"Roads, education and employment: evidence from the US rural highways", with Clément Bosquet**
+**"Roads, education and employment: evidence from the US rural highways", with  <a href="https://sites.google.com/site/clementbosquet/" target="_blank">Clément Bosquet</a> **
 
 **Abstract**: We study education and employment responses of teenagers to changes in local economic opportunities driven by transport infrastructure improvement. We
 exploit the timeline of the US highways construction in the mid-20th century to measure how rural individuals aged 14 and 15—the legal working age—respond to new economic opportunities triggered by highway connectivity. We combine US Census data from 1940 to 1970 with historical records on highway locations and opening 
@@ -23,7 +23,7 @@ sector, which has declined at a slower rate in connected counties. Further inves
 
 **Presentation**: RES & SES Annual Conference (Glasgow, Scottland), European Winter Meeting of the Econometric Society (Berlin, Germany), Decentralized Mobility and Electricity Working Group Seminar (Online), UEA 2022 (Washington DC, US), EALE 2022 (Padova, Italy), JMA 2022 (Rennes, France), UEA 2022 (London, UK), RGS 2022 (Online),  ADRES 2022 (Online), UEA 2021 (Online) and AMSE PhD Seminar 2021  (Online).
 
-**"Forbidden love: the impact of banning interracial marriages", with Björn Brey and Roberta Ziparo.**
+**"Forbidden love: the impact of banning interracial marriages", with <a href="https://sites.google.com/view/bjoernbrey/home" target="_blank">Björn Brey</a> and <a href="https://sites.google.com/site/rziparo/" target="_blank">Roberta Ziparo</a>.**
 
 **Abstract**: The majority of US states enacted miscegenation laws (racial mixing) at varying points during the 19th and 20th century. These laws made interracial
 marriages “prohibited and void”’ making them a cornerstone policy of segregation. Exploiting variations in introduction and coverage across states, we study
