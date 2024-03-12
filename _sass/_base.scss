@@ -337,8 +337,7 @@ ul.task-list input[type="checkbox"] {
   }
 
   .top-bar {
-    transform: rotate(45deg);
-    transform-origin: 10% 10%;
+    opacity: 0;
   }
 
   .middle-bar {
@@ -346,8 +345,7 @@ ul.task-list input[type="checkbox"] {
   }
 
   .bottom-bar {
-    transform: rotate(-45deg);
-    transform-origin: 10% 90%;
+    opacity: 0;
   }
 }
 
