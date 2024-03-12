@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Aix-Marseille School of Economics</a>. jade.ponsard@univ-amu.fr
 
 profile:
   align: right
