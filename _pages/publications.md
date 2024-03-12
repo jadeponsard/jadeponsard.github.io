@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-### **Research**
+## **Research**
 
 #### **"Collective action and gender roles: evidence from suffragist demonstrations,"  JMP**
 
