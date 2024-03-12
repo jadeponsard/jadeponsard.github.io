@@ -1,10 +1,12 @@
 ---
 layout: page
 permalink: /research/
-title: Research
+#title: Research
 nav: true
 nav_order: 3
 ---
+
+### **Research**
 
 #### **"Collective action and gender roles: evidence from suffragist demonstrations,"  JMP**
 
