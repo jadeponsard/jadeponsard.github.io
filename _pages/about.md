@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-#subtitle:  jade.ponsard@univ-amu.fr
+subtitle:  jade.ponsard@univ-amu.fr
 
 profile:
   align: right
@@ -13,7 +13,7 @@ profile:
 
 
 ---
-## **Jade Ponsard**
+#**Jade Ponsard**
 
 <p align="justify"> I am a Ph.D. candidate at the <a href="https://www.amse-aixmarseille.fr/en" target="_blank"> Aix-Marseille School of Economics </a> (Aix-Marseille University) since September 2020 under the supervision of <a href="https://sites.google.com/site/clementbosquet/" target="_blank"> Clément Bosquet </a> and <a href="https://trionfetti.wordpress.com/" target="_blank"> Federico Trionfetti</a>.</p>
 
@@ -23,5 +23,5 @@ profile:
 
 <p align="justify">In september 2024, I will be joigning <a href="https://economie.ens-lyon.fr/en" target="_blank"> ENS de Lyon</a> as a postdoctoral scholar.  </p>
 
-e-mail address: jade.ponsard@univ-amu.fr
+#e-mail address: jade.ponsard@univ-amu.fr
 
