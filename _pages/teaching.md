@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-**2020 - Present**  <br />
+**2020 - 2024**  <br />
 • Teaching assistant in Industrial Organization (bachelor level) at Aix-Marseille University.  <br />
 • Teaching assistant in Microeconomics II (bachelor level)  at Aix-Marseille University.
 
