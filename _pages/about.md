@@ -5,7 +5,7 @@ permalink: /
 subtitle:  jade.ponsard@univ-amu.fr
 
 profile:
-  align: right
+  align: left
   image: pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
