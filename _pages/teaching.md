@@ -7,6 +7,9 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+2020 - Present
+Teaching assistant in Industrial Organization (bachelor level) at Aix-Marseille University.
+Teaching assistant in Microeconomics II (bachelor level)  at Aix-Marseille University.
 
-Organize your courses by years, topics, or universities, however you like!
+2018
+Tutor in General Introduction in Economics (bachelor level)  at Panthéon-Sorbonne University.
