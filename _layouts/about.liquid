@@ -29,7 +29,7 @@ layout: default
    
           {%
             include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes="60vw" alt=page.profile.image
-            cache_bust=true
+            cache_bust=false
           %}
         {% endif %}
         {% if page.profile.more_info %}
