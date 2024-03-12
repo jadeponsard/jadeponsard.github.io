@@ -21,5 +21,4 @@ profile:
 
 <p align="justify">In september 2024, I will be joigning <a href="https://economie.ens-lyon.fr/en" target="_blank"> ENS de Lyon</a> as a postdoctoral scholar.  </p>
 
-#e-mail address: jade.ponsard@univ-amu.fr
 
