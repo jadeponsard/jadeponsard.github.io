@@ -57,7 +57,7 @@ table.table a {
 
 figure,
 img {
-  max-width: 30vw;
+  max-width: 90vw;
 }
 
 blockquote {
@@ -165,7 +165,7 @@ ul.task-list input[type="checkbox"] {
   background-color: var(--global-card-bg-color);
 
   img {
-    width: 30%;
+    width: 100%;
   }
 
   .card-title {
@@ -193,12 +193,12 @@ ul.task-list input[type="checkbox"] {
 // Profile
 
 .profile {
-  width: 30%;
+  width: 100%;
 
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: bitter;
+    font-family: monospace;
 
     p {
       display: inline-block;
@@ -208,11 +208,11 @@ ul.task-list input[type="checkbox"] {
 }
 
 .profile.float-right {
-  margin-left: 2rem;
+  margin-left: 1rem;
 }
 
 .profile.float-left {
-  margin-right: 2rem;
+  margin-right: 1rem;
 }
 
 @media (min-width: 576px) {
@@ -337,7 +337,8 @@ ul.task-list input[type="checkbox"] {
   }
 
   .top-bar {
-    opacity: 0;
+    transform: rotate(45deg);
+    transform-origin: 10% 10%;
   }
 
   .middle-bar {
@@ -345,7 +346,8 @@ ul.task-list input[type="checkbox"] {
   }
 
   .bottom-bar {
-    opacity: 0;
+    transform: rotate(-45deg);
+    transform-origin: 10% 90%;
   }
 }
 
