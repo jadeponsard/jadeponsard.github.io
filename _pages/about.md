@@ -21,4 +21,4 @@ profile:
 
 <p align="justify">In september 2024, I will be joigning <a href="https://economie.ens-lyon.fr/en" target="_blank"> ENS de Lyon</a> as a postdoctoral scholar.  </p>
 
-You can find my CV <a href="https://drive.google.com/file/d/1K3CIDJjsAcUNMzH6fM8w1C_rVRA-JvuF/view?usp=sharing" target="_blank"><ins>here</ins></a>.
+You can find my CV <a href="https://drive.google.com/file/d/1K3CIDJjsAcUNMzH6fM8w1C_rVRA-JvuF/view?usp=sharing" target="_blank">**here**</a>.
