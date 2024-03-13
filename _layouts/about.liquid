@@ -17,13 +17,13 @@ layout: default
   <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
     <!-- Content -->
-    <div class="content" style="flex-grow: 1; margin-right: 20px;">
+    <div class="content" style="flex-grow: 1; margin-right: 20px;"> 
       {{ content }}
     </div>
 
     <!-- Profile Image -->
     {% if page.profile %}
-      <div class="profile" style="margin-left: 20.5px; width: 21%; flex-shrink: 0;">
+      <div class="profile" style="margin-left: 20.5px; width: 21%; flex-shrink: 0;"> # c'est ici qu'il faut modifier pour changer la taille de la photo
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
           <!-- Removed the 'z-depth-1' class to eliminate the shadow effect -->
