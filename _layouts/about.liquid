@@ -14,16 +14,16 @@ layout: default
     <p class="desc">{{ page.subtitle }}</p>
   </header>
 
-  <div style="display: flex; justify-content: space-between;">
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
     <!-- Content -->
-    <div class="content" style="flex-grow: 1; margin-right: 30px;"> <!-- Decreased margin -->
+    <div class="content" style="flex-grow: 1; margin-right: 20px;"> <!-- Adjusted margin for better text alignment -->
       {{ content }}
     </div>
 
     <!-- Profile Image -->
     {% if page.profile %}
-      <div class="profile" style="margin-left: 30px; flex-shrink: 0;"> <!-- Decreased margin and prevent shrinking -->
+      <div class="profile" style="margin-left: 20px; width: 30%; flex-shrink: 0;"> <!-- Adjusted for image size and margin -->
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
           {% if page.profile.image_circular %}
@@ -31,8 +31,8 @@ layout: default
           {% else %}
             {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
           {% endif %}
-          <!-- Increased size example: For larger display, consider adjusting the sizes attribute -->
-          {% capture sizes %}(min-width: {{site.max_width}}) 50vw, (min-width: 576px) 50vw, 95vw{% endcapture %}
+          <!-- Adjusted size for alignment with the text -->
+          {% capture sizes %}(min-width: {{site.max_width}}) 30vw, 30vw, 95vw{% endcapture %}
           {%
             include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image cache_bust=true
           %}
