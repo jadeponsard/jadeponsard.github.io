@@ -45,6 +45,10 @@
   .repo-img-dark {
     display: none;
   }
+
+  .justify-text {
+  text-align: justify;
+}
 }
 
 html[data-theme="dark"] {
@@ -90,4 +94,8 @@ html[data-theme="dark"] {
   .repo-img-dark {
     display: block;
   }
+
+  .justify-text {
+  text-align: justify;
+}
 }
