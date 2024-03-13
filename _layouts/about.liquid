@@ -26,8 +26,8 @@ layout: default
       <div class="profile" style="margin-left: 20.5px; width: 21%; flex-shrink: 0;">
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
-          <!-- Assign only necessary classes without rounding effects -->
-          {% assign profile_image_class = 'img-fluid z-depth-1' %}
+          <!-- Removed the 'z-depth-1' class to eliminate the shadow effect -->
+          {% assign profile_image_class = 'img-fluid' %}
           <!-- Adjusted size for better alignment with the text -->
           {% capture sizes %}(min-width: {{site.max_width}}) 21vw, 21vw, 95vw{% endcapture %}
           {%
