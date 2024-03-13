@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href="jade.ponsard@univ-amu.fr" target="_blank"> jade.ponsard@univ-amu.fr </a>
+subtitle: jade.ponsard@univ-amu.fr
 
 profile:
   align: right
