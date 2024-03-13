@@ -23,7 +23,7 @@ layout: default
 
     <!-- Profile Image -->
     {% if page.profile %}
-      <div class="profile" style="margin-left: 20px; width: 22%; flex-shrink: 0;"> <!-- Slightly increased the image size -->
+      <div class="profile" style="margin-left: 20px; width: 20%; flex-shrink: 0;"> <!-- Slightly increased the image size -->
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
           {% if page.profile.image_circular %}
@@ -32,7 +32,7 @@ layout: default
             {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
           {% endif %}
           <!-- Adjusted size for better alignment with the text -->
-          {% capture sizes %}(min-width: {{site.max_width}}) 22vw, 22vw, 95vw{% endcapture %}
+          {% capture sizes %}(min-width: {{site.max_width}}) 21vw, 21vw, 95vw{% endcapture %}
           {%
             include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image cache_bust=true
           %}
