@@ -14,17 +14,16 @@ layout: default
     <p class="desc">{{ page.subtitle }}</p>
   </header>
 
-  <!-- Updated Flex container for profile image and content with increased margin -->
-  <div style="display: flex; justify-content: space-between; align-items: stretch;">
-    
+  <div style="display: flex; justify-content: space-between;">
+
     <!-- Content -->
-    <div class="content" style="flex-grow: 1; margin-right: 40px;"> <!-- Increased margin -->
+    <div class="content" style="flex-grow: 1; margin-right: 60px;"> <!-- Increased margin -->
       {{ content }}
     </div>
 
     <!-- Profile Image -->
     {% if page.profile %}
-      <div class="profile" style="align-self: flex-start;">
+      <div class="profile" style="width: auto; margin-left: 60px;"> <!-- Adjust width as necessary -->
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
           {% if page.profile.image_circular %}
