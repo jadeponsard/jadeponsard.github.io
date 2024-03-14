@@ -7,12 +7,10 @@ a, table.table a {
   color: var(--global-theme-color);
 }
 
-/* More base styles... */
-
-/* Button Specific Styles */
+/* Button Specific Styles - Unchanged for all devices */
 button {
-  padding: 8px 15px;
-  font-size: 0.8em;
+  padding: 8px 15px; /* Consistent padding */
+  font-size: 0.8em; /* Consistent font size */
   background-color: var(--global-theme-color);
   color: white;
   border: none;
@@ -25,15 +23,29 @@ button:hover {
   background-color: darken(var(--global-theme-color), 10%);
 }
 
-/* Responsive adjustments for smaller devices using a media query */
+/* No separate mobile adjustments for buttons needed */
+
+/* Responsive adjustments for images and other elements */
 @media (max-width: 768px) {
-  button {
-    padding: 6px 12px;
-    font-size: 0.75em; /* Slightly smaller font size on mobile for better fit */
+  /* Adjusting image sizes for responsive behavior */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* Profile Image Adjustment */
+  .profile.float-right, .profile.float-left {
+    float: none; /* Remove floating on mobile for profile image */
+    display: block;
+    margin: 0 auto; /* Center profile image */
+  }
+  
+  /* Optionally, adjust profile image size if necessary */
+  .page.profile.image {
+    width: 50%; /* Adjust based on your preference */
+    height: auto;
   }
 }
-
-/* Additional styles... */
 
 /* Ensure responsive tables for mobile devices */
 .table-responsive {
@@ -41,12 +53,6 @@ button:hover {
   width: 100%;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
-}
-
-/* Adjusting image sizes for responsive behavior */
-img {
-  max-width: 100%;
-  height: auto;
 }
 
 /* Footer, Navbar, and other component adjustments for mobile... */
