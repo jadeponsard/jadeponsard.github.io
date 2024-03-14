@@ -1,13 +1,8 @@
 ---
 layout: page
-title: "CV"
-categories:
-  - Markup
-elments:
-  - content 
-  - css
-  - formatting 
-  - html
-  - markup 
+permalink: /CV/
+title: CV
+nav: true
+nav_order: 2
 ---
 <objectdata="../assets/CV_general (2).pdf" width="1000" height="1000" type='application/pdf'></object>
