@@ -17,7 +17,7 @@ nav_order: 3
     <p style="font-size: 0.85em; text-align: justify;"> IMERA-AMSE Workshop in Gender inequalities (Marseille, France), ... </p>
 </div>
 
-###### **• Roads, education and employment: evidence from the US rural highways**, with [`Clément Bosquet`](https://sites.google.com/site/clementbosquet/)
+###### **• Roads, education and employment: evidence from the US rural highways**, with [Clément Bosquet](https://sites.google.com/site/clementbosquet/)
 
 <button onclick="toggleAbstract('abstract2')" style="padding: 2px 5px; font-size: 0.7em; border: none; outline: none;">Abstract <span class="arrow" style="font-size: inherit;">▼</span></button>
 <button onclick="togglePresentation('presentation2')" style="padding: 2px 5px; font-size: 0.7em; margin-left: 5px; border: none; outline: none;">Presentation <span class="arrow">▼</span></button>
@@ -28,7 +28,7 @@ nav_order: 3
     <p style="font-size: 0.85em; text-align: justify;"> RES & SES Annual Conference (Glasgow, Scottland), ... </p>
 </div>
 
-###### **• Forbidden love: the impact of banning interracial marriages**, with [`Björn Brey`](https://sites.google.com/view/bjoernbrey/home) and [`Roberta Ziparo`](https://sites.google.com/site/rziparo/)
+###### **• Forbidden love: the impact of banning interracial marriages**, with [Björn Brey](https://sites.google.com/view/bjoernbrey/home) and [Roberta Ziparo](https://sites.google.com/site/rziparo/)
 
 <button onclick="toggleAbstract('abstract3')" style="padding: 2px 5px; font-size: 0.7em; border: none; outline: none;">Abstract <span class="arrow" style="font-size: inherit;">▼</span></button>
 <button onclick="togglePresentation('presentation3')" style="padding: 2px 5px; font-size: 0.7em; margin-left: 5px; border: none; outline: none;">Presentation <span class="arrow">▼</span></button>
