@@ -1,0 +1,13 @@
+---
+layout: page
+title: "CV"
+categories:
+  - Markup
+elments:
+  - content 
+  - css
+  - formatting 
+  - html
+  - markup 
+---
+<objectdata="../assets/CV_general.pdf" width="1000" height="1000" type='application/pdf'></object>
