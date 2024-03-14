@@ -14,7 +14,6 @@ title: Research
 nav: true
 nav_order: 3
 ---
-<meta name="viewport" content="width=device-width, initial-scale=1">
 
 ###### **• Collective action and gender roles: evidence from women suffrage demonstrations**, JMP.
 <button onclick="toggleAbstract('abstract1')" style="padding: 2px 5px; font-size: 0.7em; border: none !important; outline: none !important;">Abstract <span class="arrow" style="font-size: inherit;">▼</span></button>
