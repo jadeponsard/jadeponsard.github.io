@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /research/
+subtitle: Work in progress
 title: Research
 nav: true
 nav_order: 3
