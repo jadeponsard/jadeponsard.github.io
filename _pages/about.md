@@ -22,4 +22,4 @@ In the fall of 2023, I visited Boston University sponsored by <a href="https://j
 
 In septembre 2024, I will be joining <a href="https://www.ens-lyon.fr/en/" target="_blank">ENS de Lyon</a> as a postdoctoral scholar.
 
-You can find my CV <a href="https://drive.google.com/file/d/1K3CIDJjsAcUNMzH6fM8w1C_rVRA-JvuF/view?usp=sharing" target="_blank">`here`</a>.
+You can find my CV <a href="https://drive.google.com/file/d/1K3CIDJjsAcUNMzH6fM8w1C_rVRA-JvuF/view?usp=sharing" target="_blank">here</a>.
