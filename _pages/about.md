@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. candidate at the `Aix-Marseille School of Economics` (Aix-Marseille University) since September 2020 under the supervision of `Clément Bosquet` and `Federico Trionfetti`. 
+I am a Ph.D. candidate at the `Aix-Marseille School of Economics` (Aix-Marseille University) since September 2020 under the supervision of <a href="https://sites.google.com/site/clementbosquet/" target="_blank">`Clément Bosquet`</a> and `Federico Trionfetti`. 
 
 I am an applied microeconomist working at the intersection of economic history, political economy, and urban economics. 
 
