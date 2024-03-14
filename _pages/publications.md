@@ -1,3 +1,4 @@
+---
 layout: page
 permalink: /research/
 subtitle: Work in progress
