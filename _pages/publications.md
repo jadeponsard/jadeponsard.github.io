@@ -31,10 +31,10 @@ function toggleAbstract(abstractId) {
     var abstract = document.getElementById(abstractId);
     if (abstract.style.display === "none") {
         abstract.style.display = "block";
-        abstract.previousElementSibling.textContent = "Hide Abstract";
+        abstract.previousElementSibling.textContent = "Abstract ▲";
     } else {
         abstract.style.display = "none";
-        abstract.previousElementSibling.textContent = "Show Abstract";
+        abstract.previousElementSibling.textContent = "Abstract ▼";
     }
 }
 </script>
