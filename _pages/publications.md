@@ -30,8 +30,8 @@ nav_order: 3
 ###### **• Forbidden love: the impact of banning interracial marriages**, with [`Björn Brey`](https://sites.google.com/view/bjoernbrey/home) and [`Roberta Ziparo`](https://sites.google.com/site/rziparo/)
 
 <button onclick="toggleAbstract('abstract3')" style="padding: 2px 5px; font-size: 0.75em;">Abstract <span class="arrow" style="font-size: inherit;">▼</span></button>
-<div id="abstract3" style="display: none;">
 <button onclick="togglePresentation('presentation3')" style="padding: 2px 5px; font-size: 0.75em; margin-left: 5px;">Presentation <span class="arrow">▼</span></button>
+<div id="abstract3" style="display: none;">
     <p><p style="font-size: 0.8em; text-align: justify;">  The majority of US states enacted miscegenation laws (racial mixing) at varying points during the 19th and 20th century. These laws made interracial marriages “prohibited and void”’ making them a cornerstone policy of segregation. Exploiting variations in introduction and coverage across states, we study how these laws shaped family structures and reinforced differences in economic outcomes across racial groups. To do so, we combined information on statelevel miscegenation laws with longitudinal data from the US censuses (1850- 1940). Preliminary results suggest that the implementation of miscegenation laws changed the composition of marriages and increased out-of-state migration of Black Americans. In addition, the codification of race was essential to the enforcement of interracial marriage prohibitions, which led to the introduction of blood purity rules. In line with this, we find that racial identity changes of initially Black Americans, a non-negligible phenomenon, declined when miscegenation laws were introduced. Further preliminary explorations suggest that the laws also had an impact on keeping an exploitative economic model in place.</p></p>
 </div>
 <div id="presentation3" style="display: none;">
