@@ -16,7 +16,7 @@ nav_order: 3
 ---
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-###### **• Collective action and gender roles: evidence from women suffrage demonstrations**, JMP
+###### **• Collective action and gender roles: evidence from women suffrage demonstrations**, JMP.
 <button onclick="toggleAbstract('abstract1')" style="padding: 2px 5px; font-size: 0.7em; border: none; outline: none;">Abstract <span class="arrow" style="font-size: inherit;">▼</span></button>
 <button onclick="togglePresentation('presentation1')" style="padding: 2px 5px; font-size: 0.7em; margin-left: 5px; border: none; outline: none;">Presentation <span class="arrow">▼</span></button>
 <div id="abstract1" style="display: none;">
