@@ -18,4 +18,4 @@ In the fall of 2023, I visited Boston University sponsored by `James Feigenbaum`
 
 In septembre 2024, I will be joining `ENS de Lyon` as a postdoctoral scholar.
 
-You can find my `CV here`.
+You can find my CV `here`.
