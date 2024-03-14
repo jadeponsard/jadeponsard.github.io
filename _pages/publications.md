@@ -51,7 +51,8 @@ nav_order: 3
 <script>
 function toggleAbstract(abstractId) {
     var abstract = document.getElementById(abstractId);
-    var arrow = abstract.previousElementSibling.querySelector('.arrow');
+    // Correctly targets the arrow inside the Abstract button.
+    var arrow = abstract.previousElementSibling.firstChild.nextSibling.querySelector('.arrow');
     if (abstract.style.display === "none") {
         abstract.style.display = "block";
         arrow.innerHTML = "▲"; // Change to up arrow when visible
@@ -63,7 +64,8 @@ function toggleAbstract(abstractId) {
 
 function togglePresentation(presentationId) {
     var presentation = document.getElementById(presentationId);
-    var arrow = presentation.previousElementSibling.querySelector('.arrow');
+    // Adjust to correctly target the arrow inside the Presentation button itself.
+    var arrow = presentation.previousElementSibling.previousElementSibling.firstChild.nextSibling.querySelector('.arrow');
     if (presentation.style.display === "none") {
         presentation.style.display = "block";
         arrow.innerHTML = "▲"; // Change to up arrow when visible
@@ -73,3 +75,4 @@ function togglePresentation(presentationId) {
     }
 }
 </script>
+
