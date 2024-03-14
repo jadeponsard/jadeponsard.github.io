@@ -7,21 +7,21 @@ nav_order: 3
 ---
 ## Collective action and gender roles: evidence from women suffrage demonstrations, JMP
 
-<button onclick="toggleAbstract('abstract1')">Show Abstract</button>
+<button onclick="toggleAbstract('abstract1')">Abstract ▼</button>
 <div id="abstract1" style="display: none;">
     <p>Abstract: Can collective action drive transformations in social roles and attitudes? ...</p>
 </div>
 
 ## Roads, education and employment: evidence from the US rural highways, with [Clément Bosquet](https://sites.google.com/site/clementbosquet/)
 
-<button onclick="toggleAbstract('abstract2')">Show Abstract</button>
+<button onclick="toggleAbstract('abstract2')">Abstract ▼</button>
 <div id="abstract2" style="display: none;">
     <p>Abstract: We study education and employment responses of teenagers to changes in local economic opportunities... </p>
 </div>
 
 ## Forbidden love: the impact of banning interracial marriages, with [Björn Brey](https://sites.google.com/view/bjoernbrey/home) and [Roberta Ziparo](https://sites.google.com/site/rziparo/)
 
-<button onclick="toggleAbstract('abstract3')">Show Abstract</button>
+<button onclick="toggleAbstract('abstract3')">Abstract ▼</button>
 <div id="abstract3" style="display: none;">
     <p>Abstract: The majority of US states enacted miscegenation laws (racial mixing) at varying points... </p>
 </div>
