@@ -5,7 +5,7 @@ title: Research
 nav: true
 nav_order: 3
 ---
-###### **• Collective action and gender roles: evidence from women suffrage demonstrations**, JMP
+##### **• Collective action and gender roles: evidence from women suffrage demonstrations**, JMP
 <button onclick="toggleAbstract('abstract1')" style="padding: 2px 5px; font-size: 0.7em;">Abstract <span class="arrow" style="font-size: inherit;">▼</span></button>
 <div id="abstract1" style="display: none;">
     <p><p align="justify"> Can collective action drive transformations in social roles and attitudes? I study the effect of local exposure to women’s suffrage protests in the early 20th century in the US on different indicators of gender role. Enfranchisement was anticipated to enhance women’s awareness, leading to a critical reevaluation of more traditional family structures, according to suffrage movement leaders. This study investigates whether raising awareness about one’s rights, alongside obtaining them, can foster social transformations. I study cross-county marches organized between 1912 and 1914 by some suffragettes to ask women’s right to vote. I build a novel historical database using local newspaper archives to map the itinerary of the marches. Then, using individual-level data from US censuses (1880-1930), I compare individual outcomes in localities along the suffragettes’ paths with those along other roads in the same state, both before and after the marches. Results suggest that exposure to suffragette demonstrations led to significant changes in the lives of young women, including (i) residing alone, without the presence of parents or a spouse and, (ii) having fewer children and delaying the birth of their first child. Additionally, evidence from newspaper coverage suggests that women were likely exposed to suffragette ideas beyond the marches due to the relative growing interest in the topic in the towns treated in the following years, as evidenced by newspaper mentions of suffrage-related activities.  </p></p>
@@ -14,7 +14,7 @@ nav_order: 3
     <p><p align="justify">IMERA-AMSE Workshop in Gender inequalities (Marseille, France), Development Reading Group, Boston University (Boston MA, USA), Graduate Workshop in Economic History at Harvard University (Cambridge MA, US), World Cliometrics Conference (Dublin, Ireland), LAGV (Marseille, France), AFSE (Paris, France), FRESH Workshop (Cologne, Germany), IRES Lunch Seminar (Louvain, Belgium), Lewis Lab Graduate Student Workshop  (Manchester, England) and AMSE PhD Seminar 2023 (Marseille, France).</p></p>
 </div>
 
-###### **• Roads, education and employment: evidence from the US rural highways**, with [`Clément Bosquet`](https://sites.google.com/site/clementbosquet/)
+##### **• Roads, education and employment: evidence from the US rural highways**, with [`Clément Bosquet`](https://sites.google.com/site/clementbosquet/)
 
 <button onclick="toggleAbstract('abstract2')" style="padding: 2px 5px; font-size: 0.7em;">Abstract <span class="arrow" style="font-size: inherit;">▼</span></button>
 <div id="abstract2" style="display: none;">
@@ -24,7 +24,7 @@ nav_order: 3
     <p><p align="justify"> RES & SES Annual Conference (Glasgow, Scottland), European Winter Meeting of the Econometric Society (Berlin, Germany), Decentralized Mobility and Electricity Working Group Seminar (Online), UEA 2022 (Washington DC, US), EALE 2022 (Padova, Italy), JMA 2022 (Rennes, France), UEA 2022 (London, UK), RGS 2022 (Online),  ADRES 2022 (Online), UEA 2021 (Online) and AMSE PhD Seminar 2021 (Online).</p> </p>
 </div>
 
-###### **• Forbidden love: the impact of banning interracial marriages**, with [`Björn Brey`](https://sites.google.com/view/bjoernbrey/home) and [`Roberta Ziparo`](https://sites.google.com/site/rziparo/)
+##### **• Forbidden love: the impact of banning interracial marriages**, with [`Björn Brey`](https://sites.google.com/view/bjoernbrey/home) and [`Roberta Ziparo`](https://sites.google.com/site/rziparo/)
 
 <button onclick="toggleAbstract('abstract3')" style="padding: 2px 5px; font-size: 0.7em;">Abstract <span class="arrow" style="font-size: inherit;">▼</span></button>
 <div id="abstract3" style="display: none;">
