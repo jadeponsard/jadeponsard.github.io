@@ -13,6 +13,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+<div style="text-align: justify;">
 
 I am a Ph.D. candidate at the <a href="https://www.amse-aixmarseille.fr/en" target="_blank">Aix-Marseille School of Economics</a> (Aix-Marseille University) since September 2020 under the supervision of <a href="https://sites.google.com/site/clementbosquet/" target="_blank">Clément Bosquet</a> and <a href="https://trionfetti.wordpress.com/" target="_blank">Federico Trionfetti</a>. 
 
@@ -23,3 +24,6 @@ In the fall of 2023, I visited Boston University sponsored by <a href="https://j
 In septembre 2024, I will be joining <a href="https://www.ens-lyon.fr/en/" target="_blank">ENS de Lyon</a> as a postdoctoral scholar.
 
 You can find my CV <a href="https://drive.google.com/file/d/1K3CIDJjsAcUNMzH6fM8w1C_rVRA-JvuF/view?usp=sharing" target="_blank">**here**</a>.
+
+</div>
+
