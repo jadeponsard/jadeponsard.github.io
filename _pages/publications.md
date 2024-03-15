@@ -46,10 +46,10 @@ function toggleAbstract(abstractId) {
     var arrow = abstract.previousElementSibling.querySelector('.arrow');
     if (abstract.style.display === "none") {
         abstract.style.display = "block";
-        arrow.innerHTML = "▲"; // Change to up arrow when visible
+        arrow.innerHTML = "&#9650;"; // Use HTML entity for up arrow when visible
     } else {
         abstract.style.display = "none";
-        arrow.innerHTML = "▼"; // Change back to down arrow when hidden
+        arrow.innerHTML = "&#9660;"; // Use HTML entity for down arrow when hidden
     }
 }
 
@@ -58,10 +58,10 @@ function togglePresentation(presentationId) {
     var arrow = presentation.previousElementSibling.querySelector('.arrow');
     if (presentation.style.display === "none") {
         presentation.style.display = "block";
-        arrow.innerHTML = "▲"; // Change to up arrow when visible
+        arrow.innerHTML = "&#9650;"; // Use HTML entity for up arrow when visible
     } else {
         presentation.style.display = "none";
-        arrow.innerHTML = "▼"; // Change back to down arrow when hidden
+        arrow.innerHTML = "&#9660;"; // Use HTML entity for down arrow when hidden
     }
 }
 </script>
