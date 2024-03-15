@@ -245,6 +245,16 @@ button {
     }
 }
 
+@media only screen and (max-width: 768px) {
+        .responsive-image {
+            width: 100%; /* Increase the size on smaller screens */
+            order: 2; /* Keeps the image after the text content */
+        }
+
+        .text-content {
+            order: 1; /* Ensures text content comes before the image */
+        }
+
 
 .post-description {
   margin-bottom: 2rem;
