@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: Research
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 ##### **Collective action and gender roles: evidence from women suffrage demonstrations**, JMP
