@@ -233,6 +233,19 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+/* Ensure button text is black on screens wider than 768px (typically desktops and laptops) */
+button {
+    color: black; /* This sets the button text color to black by default */
+}
+
+/* Media query for devices with a screen width of up to 768 pixels (tablets and phones) */
+@media only screen and (max-width: 768px) {
+    button {
+        color: black; /* Keeps the button text color black on smaller screens */
+    }
+}
+
+
 .post-description {
   margin-bottom: 2rem;
   font-size: 0.875rem;
