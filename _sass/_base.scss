@@ -245,34 +245,6 @@ button {
     }
 }
 
-<style>
-    .content-container {
-        display: flex;
-        flex-direction: column; /* This ensures the default order is text first, image second */
-    }
-
-    .responsive-image {
-        max-width: 100%; /* Makes the image responsive */
-        height: auto; /* Maintains aspect ratio */
-        order: 2; /* Default order to ensure it comes after the text */
-    }
-
-    .text-content {
-        order: 1; /* Ensures text content comes first */
-    }
-
-    /* Media query for devices with a screen width of up to 768 pixels */
-    @media only screen and (max-width: 768px) {
-        .responsive-image {
-            width: 100%; /* Increase the size on smaller screens */
-            order: 2; /* Keeps the image after the text content */
-        }
-
-        .text-content {
-            order: 1; /* Ensures text content comes before the image */
-        }
-    }
-</style>
 
 
 
