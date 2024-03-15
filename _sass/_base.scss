@@ -233,38 +233,6 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-// Assuming other styles are above, omitted for brevity
-
-.profile-container {
-  display: flex;
-  align-items: center; // Ensures content is aligned at the center vertically
-  justify-content: space-between; // Puts space between text and image
-
-  .text-content {
-    flex: 1;
-  }
-
-  .profile-image {
-    width: 30%; // Image takes up 30% of the container width on large screens
-    max-width: 200px; // Limit the maximum width if needed
-    height: auto; // Maintain aspect ratio
-    margin-left: 20px; // Space between the text and the image
-  }
-}
-
-@media (max-width: 768px) {
-  .profile-container {
-    flex-direction: column; // Stack items vertically on small screens
-    
-    .profile-image {
-      width: 100%; // Image takes full width on small screens
-      max-width: none; // Remove max-width restriction
-      margin-left: 0; // Reset margin as it's now stacked
-      margin-top: 20px; // Space between the text and the image
-    }
-  }
-}
-
 
 /* Ensure button text is black on screens wider than 768px (typically desktops and laptops) */
 button {
