@@ -6,7 +6,6 @@ title: Research
 nav: true
 nav_order: 3
 ---
-#### Work in progress
 ###### **• Collective action and gender roles: evidence from women suffrage demonstrations** [JMP]
 
 <button onclick="toggleContent('abstract1')" style="padding: 2px 5px; font-size: 0.7em; border: none; outline: none;">Abstract <span id="arrow-abstract1" class="arrow" style="font-size: inherit;">▼</span></button>
