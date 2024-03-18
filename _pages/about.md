@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 
 <p align="justify"> In the fall of 2023, I visited Boston University sponsored by <a href="https://jamesfeigenbaum.github.io/" target="_blank">James Feigenbaum</a>, <a href="https://sites.google.com/site/martinfiszbein/" target="_blank">Martin Fiszbein</a> and <a href="https://sites.google.com/view/bmarx/home" target="_blank">Benjamin Marx</a>.</p>
 
-<p align="justify"> In septembre 2024, I will be joining <a href="https://www.ens-lyon.fr/en/" target="_blank">ENS de Lyon</a> as a postdoctoral scholar.</p>
+<p align="justify"> In September 2024, I will be joining <a href="https://www.ens-lyon.fr/en/" target="_blank">ENS de Lyon</a> as a postdoctoral scholar.</p>
 
 You can find my CV <a href="https://drive.google.com/file/d/1K3CIDJjsAcUNMzH6fM8w1C_rVRA-JvuF/view?usp=sharing" target="_blank">**here**</a>.
 
