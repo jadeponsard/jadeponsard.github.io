@@ -21,5 +21,5 @@ social: true # includes social icons at the bottom of the page
 
 <p align="justify"> In September 2024, I will be joining <a href="https://www.ens-lyon.fr/en/" target="_blank">ENS de Lyon</a> as a postdoctoral scholar.</p>
 
-You can find my CV <a href="https://drive.google.com/file/d/17muVVVQu0t9tvI9MHJ_IsehdWFyPvv7j/view?usp=drive_link" target="_blank">**here**</a>.
+You can find my CV <a href="https://drive.google.com/file/d/1Ef83SCFkFGcju7SM3ti086sGU4PFf5qN/view?usp=drive_link" target="_blank">**here**</a>.
 
