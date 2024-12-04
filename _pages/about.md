@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: jade.ponsard@univ-amu.fr
+subtitle: jade.ponsard@ens-lyon.fr
 profile:
   align: right
   image: pic.jpeg
