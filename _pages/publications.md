@@ -6,7 +6,7 @@ title: Research
 nav: true
 nav_order: 3
 ---
-###### **• Collective action and gender roles: evidence from women suffrage demonstrations** [JMP], runner-up for the EMUEA 2024 Best Student Paper
+##### **• Collective action and gender roles: evidence from women suffrage demonstrations** [JMP], runner-up for the EMUEA 2024 Best Student Paper
 
 <button onclick="toggleContent('abstract1')" 
         style="padding: 5px 10px; font-size: 0.8em; border: none; outline: none; 
@@ -28,7 +28,7 @@ nav_order: 3
     <p><p style="font-size: 0.85em; text-align: justify;"> Presentation:  Yale–UB Historical Political Economy Workshop (Barcelona, Spain), European Meeting of the Urban Economics Association (Copenhagen, Denmark), XVI COSME Gender Economics Workshop (Madrid, Spain), European Association of Young Economists (Paris, France), Economic History Society Annual Conference (Newcastle, England), IMERA-AMSE Workshop in Gender inequalities (Marseille, France), Development Reading Group, Boston University (Boston MA, USA), Graduate Workshop in Economic History at Harvard University (Cambridge MA, US), World Cliometrics Conference (Dublin, Ireland), LAGV (Marseille, France), AFSE (Paris, France), FRESH Workshop (Cologne, Germany), IRES Lunch Seminar (Louvain, Belgium), Lewis Lab Graduate Student Workshop  (Manchester, England) and AMSE PhD Seminar 2023 (Marseille, France).</p></p>
 </div>
 
-###### **• Roads, education and employment: evidence from the US rural highways** [with [Clément Bosquet](https://sites.google.com/site/clementbosquet/)]
+##### **• Roads, education and employment: evidence from the US rural highways** [with [Clément Bosquet](https://sites.google.com/site/clementbosquet/)]
 
 <button onclick="toggleContent('abstract2')" 
         style="padding: 5px 10px; font-size: 0.8em; border: none; outline: none; 
@@ -51,7 +51,7 @@ by teenage boys starting to work as (unpaid family) farm laborers in the agricul
     <p><p style="font-size: 0.85em; text-align: justify;"> Presentation: RES & SES Annual Conference (Glasgow, Scottland), European Winter Meeting of the Econometric Society (Berlin, Germany), Decentralized Mobility and Electricity Working Group Seminar (Online), UEA 2022 (Washington DC, US), EALE 2022 (Padova, Italy), JMA 2022 (Rennes, France), UEA 2022 (London, UK), RGS 2022 (Online),  ADRES 2022 (Online), UEA 2021 (Online) and AMSE PhD Seminar 2021 (Online).</p> </p>
 </div>
 
-###### **• Forbidden love: the impact of banning interracial marriages** [with [Björn Brey](https://sites.google.com/view/bjoernbrey/home) and [Roberta Ziparo](https://sites.google.com/site/rziparo/)]
+##### **• Forbidden love: the impact of banning interracial marriages** [with [Björn Brey](https://sites.google.com/view/bjoernbrey/home) and [Roberta Ziparo](https://sites.google.com/site/rziparo/)]
 
 <button onclick="toggleContent('abstract3')" 
         style="padding: 5px 10px; font-size: 0.8em; border: none; outline: none; 
