@@ -30,8 +30,18 @@ nav_order: 3
 
 ###### **• Roads, education and employment: evidence from the US rural highways** [with [Clément Bosquet](https://sites.google.com/site/clementbosquet/)]
 
-<button onclick="toggleContent('abstract2')" style="padding: 2px 5px; font-size: 0.7em; border: none; outline: none;">Abstract <span id="arrow-abstract2" class="arrow" style="font-size: inherit;">▼</span></button>
-<button onclick="toggleContent('presentation2')" style="padding: 2px 5px; font-size: 0.7em; margin-left: 5px; border: none; outline: none;">Presentation <span id="arrow-presentation2" class="arrow">▼</span></button>
+<button onclick="toggleContent('abstract2')" 
+        style="padding: 5px 10px; font-size: 0.8em; border: none; outline: none; 
+               background-color: #f0f0f0; border-radius: 5px; cursor: pointer; 
+               transition: background-color 0.3s, transform 0.2s;">
+    Abstract <span id="arrow-abstract1" class="arrow" style="font-size: inherit;">▼</span>
+</button>
+<button onclick="toggleContent('presentation2')" 
+        style="padding: 5px 10px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
+               background-color: #f0f0f0; border-radius: 5px; cursor: pointer; 
+               transition: background-color 0.3s, transform 0.2s;">
+    Presentation <span id="arrow-presentation1" class="arrow">▼</span>
+</button>
 
 <div id="abstract2" style="display: none;">
     <p><p style="font-size: 0.85em; text-align: justify;"> Abstract: We study the employment responses of teenagers to changes in local economic opportunities induced by improvements in transport infrastructure, and the potential consequences for education and longer-term life trajectories. We exploit the timeline of US highway construction in the mid-20th century and combine US Census data from 1940 to 1980 with historical records on highway locations and opening times. Employing an established instrumental variable to account for the non-random placement of highways combined with a difference-in-differences strategy, we find that road connectivity increases participation in the labor market. This effect is primarily driven
@@ -43,8 +53,18 @@ by teenage boys starting to work as (unpaid family) farm laborers in the agricul
 
 ###### **• Forbidden love: the impact of banning interracial marriages** [with [Björn Brey](https://sites.google.com/view/bjoernbrey/home) and [Roberta Ziparo](https://sites.google.com/site/rziparo/)]
 
-<button onclick="toggleContent('abstract3')" style="padding: 2px 5px; font-size: 0.7em; border: none; outline: none;">Abstract <span id="arrow-abstract3" class="arrow" style="font-size: inherit;">▼</span></button>
-<button onclick="toggleContent('presentation3')" style="padding: 2px 5px; font-size: 0.7em; margin-left: 5px; border: none; outline: none;">Presentation <span id="arrow-presentation3" class="arrow">▼</span></button>
+<button onclick="toggleContent('abstract3')" 
+        style="padding: 5px 10px; font-size: 0.8em; border: none; outline: none; 
+               background-color: #f0f0f0; border-radius: 5px; cursor: pointer; 
+               transition: background-color 0.3s, transform 0.2s;">
+    Abstract <span id="arrow-abstract1" class="arrow" style="font-size: inherit;">▼</span>
+</button>
+<button onclick="toggleContent('presentation3')" 
+        style="padding: 5px 10px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
+               background-color: #f0f0f0; border-radius: 5px; cursor: pointer; 
+               transition: background-color 0.3s, transform 0.2s;">
+    Presentation <span id="arrow-presentation1" class="arrow">▼</span>
+</button>
 
 <div id="abstract3" style="display: none;">
     <p><p style="font-size: 0.85em; text-align: justify;"> Abstract: Following the Civil War, miscegenation laws were introduced across the United States. These laws declared interracial marriages "prohibited and void, "making them a cornerstone policy of segregation. According to Cox (1960), the primary motive behind the adoption of these laws was to prevent Black Americans from climbing the social ladder. Thus, by exploiting the staggered adoption of these laws across states, we test the hypothesis that their adoption contributed to maintaining the economic disparities between racial groups, inherited from slavery. To do so, we combine information on state-level miscegenation laws with individual data from the US censuses (1870-1940) and implement a generalized difference-in-differences strategy. Our results indicate that the laws increased the probability of Black Americans being employed as farmworkers by approximately 3\%, and decreased the likelihood of being farm managers by 53\%. These findings suggest that the implementation of miscegenation laws contributed to maintaining an exploitative agricultural system. Our results are robust to testing for pre-trends and implementing advanced staggered difference-in-differences techniques.</p></p>
