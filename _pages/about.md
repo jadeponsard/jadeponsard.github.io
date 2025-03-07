@@ -22,5 +22,5 @@ I defended my PhD at <a href=" https://www.amse-aixmarseille.fr/en" target="_bla
 
 <p align="justify"> In the fall of 2023, I visited Boston University sponsored by <a href="https://jamesfeigenbaum.github.io/" target="_blank">James Feigenbaum</a>, <a href="https://sites.google.com/site/martinfiszbein/" target="_blank">Martin Fiszbein</a> and <a href="https://sites.google.com/view/bmarx/home" target="_blank">Benjamin Marx</a>.</p>
 
-You can find my CV <a href="https://drive.google.com/file/d/1J6WZmj80eGULlUOtNKYpzriHIkcjyRB3/view?usp=share_link" target="_blank" style="background-color: #f0f0f0; padding: 2px 5px; border-radius: 3px;">here</a>.
+You can find my **CV** <a href="https://drive.google.com/file/d/1J6WZmj80eGULlUOtNKYpzriHIkcjyRB3/view?usp=share_link" target="_blank" style="background-color: #f0f0f0; padding: 2px 5px; border-radius: 3px;">here</a>.
 
