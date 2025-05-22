@@ -73,8 +73,6 @@ by teenage boys starting to work as (unpaid family) farm laborers in the agricul
     <p><p style="font-size: 0.85em; text-align: justify;"> Presentation: EHA 2022 (La Crosse WI, USA), AMSE PhD Seminar 2022 (Marseille, France) and EHS 2022 (Cambridge, UK).</p></p>
 </div>
 
-##### **• Peer effects in voter registration** [with [Vincent Bagilet](https://vincentbagilet.github.io/) ]
-
 <script>
 function toggleContent(contentId) {
     var content = document.getElementById(contentId);
