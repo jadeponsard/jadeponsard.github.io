@@ -81,6 +81,10 @@ function toggleContent(contentId) {
     if (content.style.display === "none") {
         content.style.display = "block";
         arrow.textContent = "▲";
+        // Scroll fluide vers le contenu avec un léger délai pour permettre l'affichage
+        setTimeout(function() {
+            content.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+        }, 50);
     } else {
         content.style.display = "none";
         arrow.textContent = "▼";
