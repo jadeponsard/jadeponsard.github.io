@@ -6,7 +6,7 @@ title: Research
 nav: true
 nav_order: 3
 ---
-### **• Collective action and gender roles: evidence from women suffrage demonstrations** [JMP], runner-up for the EMUEA 2024 Best Student Paper
+###### **• Collective action and gender roles: evidence from women suffrage demonstrations** [JMP], runner-up for the EMUEA 2024 Best Student Paper
 
 <button onclick="toggleContent('abstract1')" 
         style="padding: 5px 10px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
@@ -28,7 +28,7 @@ nav_order: 3
     <p style="font-size: 0.85em; text-align: justify;"> Presentations: IEB Workshop on Political Economy, AFEPOP, Yale–UB HPE Workshop, European meeting of the UEA, XVI COSME Gender Economics Workshop, EEAYE, EHS, IMERA-AMSE Workshop in Gender inequalities, Development Reading Group at Boston University, Graduate Workshop in Economic History at Harvard University, World Cliometrics Conference, LAGV, AFSE, FRESH Workshop, IRES Lunch Seminar and Lewis Lab Graduate Student Workshop.</p>
 </div>
 
-### **• Roads, education and employment: evidence from the US rural highways** [with [Clément Bosquet](https://sites.google.com/site/clementbosquet/)]
+###### **• Roads, education and employment: evidence from the US rural highways** [with [Clément Bosquet](https://sites.google.com/site/clementbosquet/)]
 
 <button onclick="toggleContent('abstract2')" 
         style="padding: 5px 10px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
@@ -50,7 +50,7 @@ nav_order: 3
     <p style="font-size: 0.85em; text-align: justify;"> Presentations: RES & SES Annual Conference, European Winter Meeting of the Econometric Society, Decentralized Mobility and Electricity Working Group Seminar, North American meeting of the UEA, EALE, JMA, European meeting of the UEA, RGS and ADRES.</p>
 </div>
 
-### **• Forbidden love: the impact of banning interracial marriages** [with [Björn Brey](https://sites.google.com/view/bjoernbrey/home) and [Roberta Ziparo](https://sites.google.com/site/rziparo/)]
+###### **• Forbidden love: the impact of banning interracial marriages** [with [Björn Brey](https://sites.google.com/view/bjoernbrey/home) and [Roberta Ziparo](https://sites.google.com/site/rziparo/)]
 
 <button onclick="toggleContent('abstract3')" 
         style="padding: 5px 10px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
@@ -72,7 +72,7 @@ nav_order: 3
     <p style="font-size: 0.85em; text-align: justify;"> Presentations: EHA, AMSE PhD Seminar and EHS.</p>
 </div>
 
-### **• Peer Effects in Women's Politicization** [with [Vincent Bagilet](https://vincentbagilet.github.io/)]
+###### **• Peer Effects in Women's Politicization** [with [Vincent Bagilet](https://vincentbagilet.github.io/)]
 
 <script>
 function toggleContent(contentId) {
