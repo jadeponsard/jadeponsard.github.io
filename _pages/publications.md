@@ -9,7 +9,7 @@ nav_order: 3
 ##### **• Collective action and gender roles: evidence from women suffrage demonstrations** [JMP], runner-up for the EMUEA 2024 Best Student Paper
 
 <button onclick="toggleContent('abstract1')" 
-        style="padding: 5px 10px; font-size: 0.8em; border: none; outline: none; 
+        style="padding: 5px 10px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
                background-color: #f0f0f0; border-radius: 5px; cursor: pointer; 
                transition: background-color 0.3s, transform 0.2s;">
     Abstract <span id="arrow-abstract1" class="arrow" style="font-size: inherit;">▼</span>
@@ -31,7 +31,7 @@ nav_order: 3
 ##### **• Roads, education and employment: evidence from the US rural highways** [with [Clément Bosquet](https://sites.google.com/site/clementbosquet/)]
 
 <button onclick="toggleContent('abstract2')" 
-        style="padding: 5px 10px; font-size: 0.8em; border: none; outline: none; 
+        style="padding: 5px 10px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
                background-color: #f0f0f0; border-radius: 5px; cursor: pointer; 
                transition: background-color 0.3s, transform 0.2s;">
     Abstract <span id="arrow-abstract2" class="arrow" style="font-size: inherit;">▼</span>
@@ -53,7 +53,7 @@ nav_order: 3
 ##### **• Forbidden love: the impact of banning interracial marriages** [with [Björn Brey](https://sites.google.com/view/bjoernbrey/home) and [Roberta Ziparo](https://sites.google.com/site/rziparo/)]
 
 <button onclick="toggleContent('abstract3')" 
-        style="padding: 5px 10px; font-size: 0.8em; border: none; outline: none; 
+        style="padding: 5px 10px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
                background-color: #f0f0f0; border-radius: 5px; cursor: pointer; 
                transition: background-color 0.3s, transform 0.2s;">
     Abstract <span id="arrow-abstract3" class="arrow" style="font-size: inherit;">▼</span>
