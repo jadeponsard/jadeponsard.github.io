@@ -73,6 +73,8 @@ by teenage boys starting to work as (unpaid family) farm laborers in the agricul
     <p><p style="font-size: 0.85em; text-align: justify;"> Presentations: EHA, AMSE PhD Seminar and EHS.</p></p>
 </div>
 
+##### **• Peer Effects in Women's Politicization** [with [Vincent Bagilet](https://vincentbagilet.github.io/)]
+
 <script>
 function toggleContent(contentId) {
     var content = document.getElementById(contentId);
