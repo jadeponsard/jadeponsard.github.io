@@ -9,21 +9,21 @@ nav_order: 3
 
 <!-- Projet 1 - Image à gauche -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/assets/img/suffrae_marche.jpg" style="width: 80px; height: 80px; object-fit: cover; margin-right: 20px; flex-shrink: 0; border-radius: 8px;" alt="Suffrage research">
+  <img src="/assets/img/suffrage.jpg" style="width: 80px; height: 80px; object-fit: cover; margin-right: 20px; flex-shrink: 0; border-radius: 8px;" alt="Suffrage research">
   <div style="flex: 1;">
     <h6 style="margin: 0 0 10px 0;"><strong>• Collective action and gender roles: evidence from women suffrage demonstrations</strong> [JMP], runner-up for the EMUEA 2024 Best Student Paper</h6>
     
     <button onclick="toggleContent('abstract1')" 
-            style="padding: 5px 10px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
-                   background-color: #f0f0f0; border-radius: 5px; cursor: pointer; 
+            style="padding: 3px 6px; font-size: 0.8em; font-family: 'Courier New', 'Monaco', 'Menlo', monospace; margin-left: 5px; border: none; outline: none; 
+                   background-color: #f0f0f0; border-radius: 3px; cursor: pointer; 
                    transition: background-color 0.3s, transform 0.2s;">
-        Abstract <span id="arrow-abstract1" class="arrow" style="font-size: inherit;">▼</span>
+        Abstract <span id="arrow-abstract1" class="arrow" style="font-size: 0.7em;">▼</span>
     </button>
     <button onclick="toggleContent('presentation1')" 
-            style="padding: 5px 10px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
-                   background-color: #f0f0f0; border-radius: 5px; cursor: pointer; 
+            style="padding: 3px 6px; font-size: 0.8em; font-family: 'Courier New', 'Monaco', 'Menlo', monospace; margin-left: 5px; border: none; outline: none; 
+                   background-color: #f0f0f0; border-radius: 3px; cursor: pointer; 
                    transition: background-color 0.3s, transform 0.2s;">
-        Presentation <span id="arrow-presentation1" class="arrow">▼</span>
+        Presentation <span id="arrow-presentation1" class="arrow" style="font-size: 0.7em;">▼</span>
     </button>
 
     <div id="abstract1" style="display: none; margin-top: 10px;">
@@ -37,21 +37,21 @@ nav_order: 3
 
 <!-- Projet 2 - Image à droite -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; flex-direction: row-reverse;">
-  <img src="/assets/img/highway.PNG" style="width: 80px; height: 80px; object-fit: cover; margin-left: 20px; flex-shrink: 0; border-radius: 8px;" alt="Highways research">
+  <img src="/assets/img/highways.jpg" style="width: 80px; height: 80px; object-fit: cover; margin-left: 20px; flex-shrink: 0; border-radius: 8px;" alt="Highways research">
   <div style="flex: 1;">
     <h6 style="margin: 0 0 10px 0;"><strong>• Roads, education and employment: evidence from the US rural highways</strong> [with <a href="https://sites.google.com/site/clementbosquet/">Clément Bosquet</a>]</h6>
 
     <button onclick="toggleContent('abstract2')" 
-            style="padding: 5px 10px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
-                   background-color: #f0f0f0; border-radius: 5px; cursor: pointer; 
+            style="padding: 3px 6px; font-size: 0.8em; font-family: 'Courier New', 'Monaco', 'Menlo', monospace; margin-left: 5px; border: none; outline: none; 
+                   background-color: #f0f0f0; border-radius: 3px; cursor: pointer; 
                    transition: background-color 0.3s, transform 0.2s;">
-        Abstract <span id="arrow-abstract2" class="arrow" style="font-size: inherit;">▼</span>
+        Abstract <span id="arrow-abstract2" class="arrow" style="font-size: 0.7em;">▼</span>
     </button>
     <button onclick="toggleContent('presentation2')" 
-            style="padding: 5px 10px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
-                   background-color: #f0f0f0; border-radius: 5px; cursor: pointer; 
+            style="padding: 3px 6px; font-size: 0.8em; font-family: 'Courier New', 'Monaco', 'Menlo', monospace; margin-left: 5px; border: none; outline: none; 
+                   background-color: #f0f0f0; border-radius: 3px; cursor: pointer; 
                    transition: background-color 0.3s, transform 0.2s;">
-        Presentation <span id="arrow-presentation2" class="arrow">▼</span>
+        Presentation <span id="arrow-presentation2" class="arrow" style="font-size: 0.7em;">▼</span>
     </button>
 
     <div id="abstract2" style="display: none; margin-top: 10px;">
@@ -65,21 +65,21 @@ nav_order: 3
 
 <!-- Projet 3 - Image à gauche -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/assets/img/miscegenation.PNG" style="width: 80px; height: 80px; object-fit: cover; margin-right: 20px; flex-shrink: 0; border-radius: 8px;" alt="Interracial marriage research">
+  <img src="/assets/img/interracial.jpg" style="width: 80px; height: 80px; object-fit: cover; margin-right: 20px; flex-shrink: 0; border-radius: 8px;" alt="Interracial marriage research">
   <div style="flex: 1;">
     <h6 style="margin: 0 0 10px 0;"><strong>• Forbidden love: the impact of banning interracial marriages</strong> [with <a href="https://sites.google.com/view/bjoernbrey/home">Björn Brey</a> and <a href="https://sites.google.com/site/rziparo/">Roberta Ziparo</a>]</h6>
 
     <button onclick="toggleContent('abstract3')" 
-            style="padding: 5px 10px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
-                   background-color: #f0f0f0; border-radius: 5px; cursor: pointer; 
+            style="padding: 3px 6px; font-size: 0.8em; font-family: 'Courier New', 'Monaco', 'Menlo', monospace; margin-left: 5px; border: none; outline: none; 
+                   background-color: #f0f0f0; border-radius: 3px; cursor: pointer; 
                    transition: background-color 0.3s, transform 0.2s;">
-        Abstract <span id="arrow-abstract3" class="arrow" style="font-size: inherit;">▼</span>
+        Abstract <span id="arrow-abstract3" class="arrow" style="font-size: 0.7em;">▼</span>
     </button>
     <button onclick="toggleContent('presentation3')" 
-            style="padding: 5px 10px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
-                   background-color: #f0f0f0; border-radius: 5px; cursor: pointer; 
+            style="padding: 3px 6px; font-size: 0.8em; font-family: 'Courier New', 'Monaco', 'Menlo', monospace; margin-left: 5px; border: none; outline: none; 
+                   background-color: #f0f0f0; border-radius: 3px; cursor: pointer; 
                    transition: background-color 0.3s, transform 0.2s;">
-        Presentation <span id="arrow-presentation3" class="arrow">▼</span>
+        Presentation <span id="arrow-presentation3" class="arrow" style="font-size: 0.7em;">▼</span>
     </button>
 
     <div id="abstract3" style="display: none; margin-top: 10px;">
@@ -93,7 +93,7 @@ nav_order: 3
 
 <!-- Projet 4 - Image à droite -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; flex-direction: row-reverse;">
-  <img src="/assets/img/women_voter.png" style="width: 80px; height: 80px; object-fit: cover; margin-left: 20px; flex-shrink: 0; border-radius: 8px;" alt="Political participation research">
+  <img src="/assets/img/political.jpg" style="width: 80px; height: 80px; object-fit: cover; margin-left: 20px; flex-shrink: 0; border-radius: 8px;" alt="Political participation research">
   <div style="flex: 1;">
     <h6 style="margin: 0 0 10px 0;"><strong>• Peer Effects in Women's Political Participation</strong> [with <a href="https://vincentbagilet.github.io/">Vincent Bagilet</a>]</h6>
   </div>
