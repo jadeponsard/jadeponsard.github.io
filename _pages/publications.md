@@ -14,13 +14,13 @@ nav_order: 3
     <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">runner-up for the EMUEA 2024 Best Student Paper</p>
     
     <button onclick="toggleContent('abstract1')" 
-            style="padding: 3px 6px; font-size: 0.8em; font-family: 'Courier New', 'Monaco', 'Menlo', monospace; margin-left: 5px; border: none; outline: none; 
+            style="padding: 3px 6px; font-size: 0.8em; font-family: 'JetBrains Mono', 'SF Mono', 'Fira Code', monospace; margin-left: 5px; border: none; outline: none; 
                    background-color: #f0f0f0; border-radius: 3px; cursor: pointer; 
                    transition: background-color 0.3s, transform 0.2s;">
         Abstract <span id="arrow-abstract1" class="arrow" style="font-size: 0.7em;">▼</span>
     </button>
     <button onclick="toggleContent('presentation1')" 
-            style="padding: 3px 6px; font-size: 0.8em; font-family: 'Courier New', 'Monaco', 'Menlo', monospace; margin-left: 5px; border: none; outline: none; 
+            style="padding: 3px 6px; font-size: 0.8em; font-family: 'JetBrains Mono', 'SF Mono', 'Fira Code', monospace; margin-left: 5px; border: none; outline: none; 
                    background-color: #f0f0f0; border-radius: 3px; cursor: pointer; 
                    transition: background-color 0.3s, transform 0.2s;">
         Presentation <span id="arrow-presentation1" class="arrow" style="font-size: 0.7em;">▼</span>
@@ -33,7 +33,7 @@ nav_order: 3
         <p style="font-size: 0.85em; text-align: justify;"> Presentations: IEB Workshop on Political Economy, AFEPOP, Yale–UB HPE Workshop, European meeting of the UEA, XVI COSME Gender Economics Workshop, EEAYE, EHS, IMERA-AMSE Workshop in Gender inequalities, Development Reading Group at Boston University, Graduate Workshop in Economic History at Harvard University, World Cliometrics Conference, LAGV, AFSE, FRESH Workshop, IRES Lunch Seminar and Lewis Lab Graduate Student Workshop.</p>
     </div>
   </div>
-  <img src="/assets/img/suffrae_marche.jpg" style="width: 150px; height: 150px; object-fit: cover; flex-shrink: 0; border-radius: 8px;" alt="Suffrage research">
+  <img src="/assets/img/suffrae_marche.jpg" style="width: 180px; height: 180px; object-fit: cover; flex-shrink: 0; border-radius: 8px;" alt="Suffrage research">
 </div>
 
 <!-- Projet 2 - Image à droite -->
@@ -43,13 +43,13 @@ nav_order: 3
     <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">with <a href="https://sites.google.com/site/clementbosquet/">Clément Bosquet</a></p>
 
     <button onclick="toggleContent('abstract2')" 
-            style="padding: 3px 6px; font-size: 0.8em; font-family: 'Courier New', 'Monaco', 'Menlo', monospace; margin-left: 5px; border: none; outline: none; 
+            style="padding: 3px 6px; font-size: 0.8em; font-family: 'JetBrains Mono', 'SF Mono', 'Fira Code', monospace; margin-left: 5px; border: none; outline: none; 
                    background-color: #f0f0f0; border-radius: 3px; cursor: pointer; 
                    transition: background-color 0.3s, transform 0.2s;">
         Abstract <span id="arrow-abstract2" class="arrow" style="font-size: 0.7em;">▼</span>
     </button>
     <button onclick="toggleContent('presentation2')" 
-            style="padding: 3px 6px; font-size: 0.8em; font-family: 'Courier New', 'Monaco', 'Menlo', monospace; margin-left: 5px; border: none; outline: none; 
+            style="padding: 3px 6px; font-size: 0.8em; font-family: 'JetBrains Mono', 'SF Mono', 'Fira Code', monospace; margin-left: 5px; border: none; outline: none; 
                    background-color: #f0f0f0; border-radius: 3px; cursor: pointer; 
                    transition: background-color 0.3s, transform 0.2s;">
         Presentation <span id="arrow-presentation2" class="arrow" style="font-size: 0.7em;">▼</span>
@@ -62,7 +62,7 @@ nav_order: 3
         <p style="font-size: 0.85em; text-align: justify;"> Presentations: RES & SES Annual Conference, European Winter Meeting of the Econometric Society, Decentralized Mobility and Electricity Working Group Seminar, North American meeting of the UEA, EALE, JMA, European meeting of the UEA, RGS and ADRES.</p>
     </div>
   </div>
-  <img src="/assets/img/highway.PNG" style="width: 150px; height: 150px; object-fit: cover; flex-shrink: 0; border-radius: 8px;" alt="Highways research">
+  <img src="/assets/img/highway.PNG" style="width: 180px; height: 180px; object-fit: cover; flex-shrink: 0; border-radius: 8px;" alt="Highways research">
 </div>
 
 <!-- Projet 3 - Image à droite -->
@@ -73,13 +73,13 @@ nav_order: 3
     and <a href="https://sites.google.com/site/rziparo/">Roberta Ziparo</a></p>
 
     <button onclick="toggleContent('abstract3')" 
-            style="padding: 3px 6px; font-size: 0.8em; font-family: 'Courier New', 'Monaco', 'Menlo', monospace; margin-left: 5px; border: none; outline: none; 
+            style="padding: 3px 6px; font-size: 0.8em; font-family: 'JetBrains Mono', 'SF Mono', 'Fira Code', monospace; margin-left: 5px; border: none; outline: none; 
                    background-color: #f0f0f0; border-radius: 3px; cursor: pointer; 
                    transition: background-color 0.3s, transform 0.2s;">
         Abstract <span id="arrow-abstract3" class="arrow" style="font-size: 0.7em;">▼</span>
     </button>
     <button onclick="toggleContent('presentation3')" 
-            style="padding: 3px 6px; font-size: 0.8em; font-family: 'Courier New', 'Monaco', 'Menlo', monospace; margin-left: 5px; border: none; outline: none; 
+            style="padding: 3px 6px; font-size: 0.8em; font-family: 'JetBrains Mono', 'SF Mono', 'Fira Code', monospace; margin-left: 5px; border: none; outline: none; 
                    background-color: #f0f0f0; border-radius: 3px; cursor: pointer; 
                    transition: background-color 0.3s, transform 0.2s;">
         Presentation <span id="arrow-presentation3" class="arrow" style="font-size: 0.7em;">▼</span>
@@ -92,7 +92,7 @@ nav_order: 3
         <p style="font-size: 0.85em; text-align: justify;"> Presentations: EHA, AMSE PhD Seminar and EHS.</p>
     </div>
   </div>
-  <img src="/assets/img/miscegenation.PNG" style="width: 150px; height: 150px; object-fit: cover; flex-shrink: 0; border-radius: 8px;" alt="Interracial marriage research">
+  <img src="/assets/img/miscegenation.PNG" style="width: 180px; height: 180px; object-fit: cover; flex-shrink: 0; border-radius: 8px;" alt="Interracial marriage research">
 </div>
 
 <!-- Projet 4 - Image à droite -->
@@ -101,7 +101,7 @@ nav_order: 3
     <h6 style="margin: 0 0 5px 0;"><strong>• Peer Effects in Women's Political Participation</strong></h6>
     <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">with <a href="https://vincentbagilet.github.io/">Vincent Bagilet</a></p>
   </div>
-  <img src="/assets/img/women_voter.png" style="width: 150px; height: 150px; object-fit: cover; flex-shrink: 0; border-radius: 8px;" alt="Political participation research">
+  <img src="/assets/img/women_voter.jpg" style="width: 180px; height: 180px; object-fit: cover; flex-shrink: 0; border-radius: 8px;" alt="Political participation research">
 </div>
 
 <script>
