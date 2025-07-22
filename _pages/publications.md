@@ -10,17 +10,17 @@ nav_order: 3
 <!-- Projet 1 - Image à droite -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <div style="flex: 1; margin-right: 25px;">
-    <h5 style="margin: 0 0 5px 0; font-size: 1.1em;"><strong>Exposure to women's political mobiliation and gender roles</strong> [JMP]</h5>
+    <h4 style="margin: 0 0 5px 0; font-size: 1.3em;"><strong>• Collective action and gender roles: evidence from women suffrage demonstrations</strong> [JMP]</h4>
     <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">runner-up for the EMUEA 2024 Best Student Paper</p>
     
     <button onclick="toggleContent('abstract1')" 
-            style="padding: 3px 6px; font-size: 0.8em; font-family: 'JetBrains Mono', 'SF Mono', 'Fira Code', monospace; margin-left: 5px; border: none; outline: none; 
+            style="padding: 3px 6px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
                    background-color: #f0f0f0; border-radius: 3px; cursor: pointer; 
                    transition: background-color 0.3s, transform 0.2s;">
         Abstract <span id="arrow-abstract1" class="arrow" style="font-size: 0.7em;">▼</span>
     </button>
     <button onclick="toggleContent('presentation1')" 
-            style="padding: 3px 6px; font-size: 0.8em; font-family: 'JetBrains Mono', 'SF Mono', 'Fira Code', monospace; margin-left: 5px; border: none; outline: none; 
+            style="padding: 3px 6px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
                    background-color: #f0f0f0; border-radius: 3px; cursor: pointer; 
                    transition: background-color 0.3s, transform 0.2s;">
         Presentation <span id="arrow-presentation1" class="arrow" style="font-size: 0.7em;">▼</span>
@@ -39,17 +39,17 @@ nav_order: 3
 <!-- Projet 2 - Image à droite -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <div style="flex: 1; margin-right: 25px;">
-    <h5 style="margin: 0 0 5px 0; font-size: 1.1em;"><strong> Roads, education and employment: evidence from the US rural highways</strong></h5>
+    <h4 style="margin: 0 0 5px 0; font-size: 1.3em;"><strong>• Roads, education and employment: evidence from the US rural highways</strong></h4>
     <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">with <a href="https://sites.google.com/site/clementbosquet/">Clément Bosquet</a></p>
 
     <button onclick="toggleContent('abstract2')" 
-            style="padding: 3px 6px; font-size: 0.8em; font-family: 'JetBrains Mono', 'SF Mono', 'Fira Code', monospace; margin-left: 5px; border: none; outline: none; 
+            style="padding: 3px 6px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
                    background-color: #f0f0f0; border-radius: 3px; cursor: pointer; 
                    transition: background-color 0.3s, transform 0.2s;">
         Abstract <span id="arrow-abstract2" class="arrow" style="font-size: 0.7em;">▼</span>
     </button>
     <button onclick="toggleContent('presentation2')" 
-            style="padding: 3px 6px; font-size: 0.8em; font-family: 'JetBrains Mono', 'SF Mono', 'Fira Code', monospace; margin-left: 5px; border: none; outline: none; 
+            style="padding: 3px 6px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
                    background-color: #f0f0f0; border-radius: 3px; cursor: pointer; 
                    transition: background-color 0.3s, transform 0.2s;">
         Presentation <span id="arrow-presentation2" class="arrow" style="font-size: 0.7em;">▼</span>
@@ -68,18 +68,18 @@ nav_order: 3
 <!-- Projet 3 - Image à droite -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <div style="flex: 1; margin-right: 25px;">
-    <h5 style="margin: 0 0 5px 0; font-size: 1.1em;"><strong> Forbidden love: the impact of banning interracial marriages</strong></h5>
+    <h4 style="margin: 0 0 5px 0; font-size: 1.3em;"><strong>• Forbidden love: the impact of banning interracial marriages</strong></h4>
     <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">with <a href="https://sites.google.com/view/bjoernbrey/home">Björn Brey</a><br>
     and <a href="https://sites.google.com/site/rziparo/">Roberta Ziparo</a></p>
 
     <button onclick="toggleContent('abstract3')" 
-            style="padding: 3px 6px; font-size: 0.8em; font-family: 'JetBrains Mono', 'SF Mono', 'Fira Code', monospace; margin-left: 5px; border: none; outline: none; 
+            style="padding: 3px 6px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
                    background-color: #f0f0f0; border-radius: 3px; cursor: pointer; 
                    transition: background-color 0.3s, transform 0.2s;">
         Abstract <span id="arrow-abstract3" class="arrow" style="font-size: 0.7em;">▼</span>
     </button>
     <button onclick="toggleContent('presentation3')" 
-            style="padding: 3px 6px; font-size: 0.8em; font-family: 'JetBrains Mono', 'SF Mono', 'Fira Code', monospace; margin-left: 5px; border: none; outline: none; 
+            style="padding: 3px 6px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
                    background-color: #f0f0f0; border-radius: 3px; cursor: pointer; 
                    transition: background-color 0.3s, transform 0.2s;">
         Presentation <span id="arrow-presentation3" class="arrow" style="font-size: 0.7em;">▼</span>
@@ -98,7 +98,7 @@ nav_order: 3
 <!-- Projet 4 - Image à droite -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <div style="flex: 1; margin-right: 25px;">
-    <h5 style="margin: 0 0 5px 0; font-size: 1.1em;"><strong> Peer Effects in Women's Political Participation</strong></h5>
+    <h4 style="margin: 0 0 5px 0; font-size: 1.3em;"><strong>• Peer Effects in Women's Political Participation</strong></h4>
     <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">with <a href="https://vincentbagilet.github.io/">Vincent Bagilet</a></p>
   </div>
   <img src="/assets/img/womenvoter.jpg" style="width: 180px; height: 180px; object-fit: cover; flex-shrink: 0; border-radius: 8px;" alt="Political participation research">
