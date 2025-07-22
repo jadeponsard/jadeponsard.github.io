@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 6
 ---
-**2024 -** <br />
+**2024 - 2027** <br />
 • Lecturer - Topics in Economic History (grad) at École Normale Supérieure de Lyon <br />
 • Lecturer - Introduction to Political Economy (undergrad) at École Normale Supérieure de Lyon
 
