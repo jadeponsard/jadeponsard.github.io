@@ -10,7 +10,7 @@ nav_order: 3
 <!-- Projet 1 - Image à droite -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <div style="flex: 1; margin-right: 25px;">
-    <h6 style="margin: 0 0 5px 0;"><strong>• Collective action and gender roles: evidence from women suffrage demonstrations</strong> [JMP]</h6>
+    <h6 style="margin: 0 0 5px 0;"><strong> Collective action and gender roles: evidence from women suffrage demonstrations</strong> [JMP]</h6>
     <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">runner-up for the EMUEA 2024 Best Student Paper</p>
     
     <button onclick="toggleContent('abstract1')" 
@@ -39,7 +39,7 @@ nav_order: 3
 <!-- Projet 2 - Image à droite -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <div style="flex: 1; margin-right: 25px;">
-    <h6 style="margin: 0 0 5px 0;"><strong>• Roads, education and employment: evidence from the US rural highways</strong></h6>
+    <h6 style="margin: 0 0 5px 0;"><strong> Roads, education and employment: evidence from the US rural highways</strong></h6>
     <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">with <a href="https://sites.google.com/site/clementbosquet/">Clément Bosquet</a></p>
 
     <button onclick="toggleContent('abstract2')" 
@@ -68,8 +68,8 @@ nav_order: 3
 <!-- Projet 3 - Image à droite -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <div style="flex: 1; margin-right: 25px;">
-    <h6 style="margin: 0 0 5px 0;"><strong>• Forbidden love: the impact of banning interracial marriages</strong></h6>
-    <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">with <a href="https://sites.google.com/view/bjoernbrey/home">Björn Brey</a><br>
+    <h6 style="margin: 0 0 5px 0;"><strong> Forbidden love: the impact of banning interracial marriages</strong></h6>
+    <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">with <a href="https://sites.google.com/view/bjoernbrey/home">Björn Brey</a>
     and <a href="https://sites.google.com/site/rziparo/">Roberta Ziparo</a></p>
 
     <button onclick="toggleContent('abstract3')" 
@@ -98,10 +98,10 @@ nav_order: 3
 <!-- Projet 4 - Image à droite -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <div style="flex: 1; margin-right: 25px;">
-    <h6 style="margin: 0 0 5px 0;"><strong>• Peer Effects in Women's Political Participation</strong></h6>
+    <h6 style="margin: 0 0 5px 0;"><strong> Peer Effects in Women's Political Participation</strong></h6>
     <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">with <a href="https://vincentbagilet.github.io/">Vincent Bagilet</a></p>
   </div>
-  <img src="/assets/img/women_voter.jpg" style="width: 180px; height: 180px; object-fit: cover; flex-shrink: 0; border-radius: 8px;" alt="Political participation research">
+  <img src="/assets/img/womenvoter.jpg" style="width: 180px; height: 180px; object-fit: cover; flex-shrink: 0; border-radius: 8px;" alt="Political participation research">
 </div>
 
 <script>
