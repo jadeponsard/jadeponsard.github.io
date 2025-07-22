@@ -33,7 +33,7 @@ nav_order: 3
         <p style="font-size: 0.85em; text-align: justify;"> Presentations: IEB Workshop on Political Economy, AFEPOP, Yale–UB HPE Workshop, European meeting of the UEA, XVI COSME Gender Economics Workshop, EEAYE, EHS, IMERA-AMSE Workshop in Gender inequalities, Development Reading Group at Boston University, Graduate Workshop in Economic History at Harvard University, World Cliometrics Conference, LAGV, AFSE, FRESH Workshop, IRES Lunch Seminar and Lewis Lab Graduate Student Workshop.</p>
     </div>
   </div>
-  <img src="/assets/img/suffrage.jpg" style="width: 150px; height: 150px; object-fit: cover; flex-shrink: 0; border-radius: 8px;" alt="Suffrage research">
+  <img src="/assets/img/suffrae_marche.jpg" style="width: 150px; height: 150px; object-fit: cover; flex-shrink: 0; border-radius: 8px;" alt="Suffrage research">
 </div>
 
 <!-- Projet 2 - Image à droite -->
@@ -62,7 +62,7 @@ nav_order: 3
         <p style="font-size: 0.85em; text-align: justify;"> Presentations: RES & SES Annual Conference, European Winter Meeting of the Econometric Society, Decentralized Mobility and Electricity Working Group Seminar, North American meeting of the UEA, EALE, JMA, European meeting of the UEA, RGS and ADRES.</p>
     </div>
   </div>
-  <img src="/assets/img/highways.jpg" style="width: 150px; height: 150px; object-fit: cover; flex-shrink: 0; border-radius: 8px;" alt="Highways research">
+  <img src="/assets/img/highway.PNG" style="width: 150px; height: 150px; object-fit: cover; flex-shrink: 0; border-radius: 8px;" alt="Highways research">
 </div>
 
 <!-- Projet 3 - Image à droite -->
@@ -92,7 +92,7 @@ nav_order: 3
         <p style="font-size: 0.85em; text-align: justify;"> Presentations: EHA, AMSE PhD Seminar and EHS.</p>
     </div>
   </div>
-  <img src="/assets/img/interracial.jpg" style="width: 150px; height: 150px; object-fit: cover; flex-shrink: 0; border-radius: 8px;" alt="Interracial marriage research">
+  <img src="/assets/img/miscegenation.PNG" style="width: 150px; height: 150px; object-fit: cover; flex-shrink: 0; border-radius: 8px;" alt="Interracial marriage research">
 </div>
 
 <!-- Projet 4 - Image à droite -->
