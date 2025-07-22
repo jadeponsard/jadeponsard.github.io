@@ -5,7 +5,7 @@ permalink: /
 subtitle: jade.ponsard@ens-lyon.fr
 profile:
   align: right
-  image: pic.jpeg
+  image: img.png
   image_circular: false # crops the image to make it circular
   more_info:
 
