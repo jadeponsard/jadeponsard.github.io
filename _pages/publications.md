@@ -101,7 +101,7 @@ nav_order: 3
     <h4 style="margin: 0 0 5px 0; font-size: 1.3em;"><strong>• Peer Effects in Women's Political Participation</strong></h4>
     <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">with <a href="https://vincentbagilet.github.io/">Vincent Bagilet</a></p>
   </div>
-  <img src="/assets/img/womenvoter.jpg" style="width: 180px; height: 180px; object-fit: cover; flex-shrink: 0; border-radius: 8px;" alt="Political participation research">
+  <img src="/assets/img/womenvoter.png" style="width: 180px; height: 180px; object-fit: cover; flex-shrink: 0; border-radius: 8px;" alt="Political participation research">
 </div>
 
 <script>
