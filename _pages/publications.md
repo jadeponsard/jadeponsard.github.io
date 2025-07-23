@@ -39,7 +39,7 @@ nav_order: 3
 <div style="margin-bottom: 30px; overflow: hidden;">
   <img src="/assets/img/highway.PNG" style="width: 170px; height: 170px; object-fit: cover; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Highways research">
   
-  <h5 style="margin: 0 0 5px 0;"><strong>• Roads, education and employment: evidence from the US rural highways</strong></h5>
+  <h5 style="margin: 0 0 5px 0;"><strong>• Roads, employment and education: evidence from the US rural highways</strong></h5>
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://sites.google.com/site/clementbosquet/">Clément Bosquet</a></p>
 
   <button onclick="toggleContent('abstract2')" 
