@@ -77,9 +77,7 @@ layout: default
       <div class="about-profile"> 
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
-          <!-- Removed the 'z-depth-1' class to eliminate the shadow effect -->
           {% assign profile_image_class = 'img-fluid' %}
-          <!-- Adjusted size for better alignment with the text -->
           {% capture sizes %}(min-width: {{site.max_width}}) 21vw, (max-width: 768px) 100vw, 21vw{% endcapture %}
           {%
             include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image cache_bust=true
