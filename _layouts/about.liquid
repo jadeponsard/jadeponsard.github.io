@@ -45,20 +45,24 @@ layout: default
       
       .about-profile {
         margin-left: 0;
-        width: 85%;
-        align-self: flex-start;
+        width: 100%; /* Pleine largeur sur mobile */
+        align-self: stretch; /* S'étend sur toute la largeur disponible */
+        margin-left: -15px; /* Compense les marges du container parent */
+        margin-right: -15px; /* Compense les marges du container parent */
       }
       
       .about-profile img {
-        max-width: 100%;
+        width: 100%; /* Force l'image à prendre toute la largeur */
         height: auto;
+        object-fit: cover; /* Maintient les proportions */
       }
     }
     
     /* Pour les très petits écrans */
     @media (max-width: 480px) {
       .about-profile {
-        width: 90%;
+        margin-left: -20px; /* Ajustement pour très petits écrans */
+        margin-right: -20px;
       }
     }
   </style>
@@ -76,7 +80,7 @@ layout: default
           <!-- Removed the 'z-depth-1' class to eliminate the shadow effect -->
           {% assign profile_image_class = 'img-fluid' %}
           <!-- Adjusted size for better alignment with the text -->
-          {% capture sizes %}(min-width: {{site.max_width}}) 21vw, (max-width: 768px) 85vw, 21vw{% endcapture %}
+          {% capture sizes %}(min-width: {{site.max_width}}) 21vw, (max-width: 768px) 100vw, 21vw{% endcapture %}
           {%
             include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image cache_bust=true
           %}
