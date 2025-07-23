@@ -53,7 +53,7 @@ layout: default
   }
   
   .about-profile img {
-    max-width: 70%; /* Image plus grande sur mobile */
+    max-width: 87.5%; /* Image encore plus grande sur mobile (70% + 25%) */
     height: auto;
   }
   
@@ -66,7 +66,7 @@ layout: default
 /* Pour les très petits écrans */
 @media (max-width: 480px) {
   .about-profile img {
-    max-width: 80%; /* Encore plus grande sur très petits écrans */
+    max-width: 100%; /* Très grande sur très petits écrans (80% + 25%) */
   }
 }
 </style>
@@ -85,7 +85,7 @@ layout: default
         <!-- Removed the 'z-depth-1' class to eliminate the shadow effect -->
         {% assign profile_image_class = 'img-fluid' %}
         <!-- Adjusted size for better alignment with the text -->
-        {% capture sizes %}(min-width: {{site.max_width}}) 21vw, (max-width: 768px) 70vw, 21vw{% endcapture %}
+        {% capture sizes %}(min-width: {{site.max_width}}) 21vw, (max-width: 768px) 87.5vw, 21vw{% endcapture %}
         {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image cache_bust=true %}
       {% endif %}
       
