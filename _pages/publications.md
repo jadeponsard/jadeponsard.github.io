@@ -11,7 +11,7 @@ nav_order: 3
 <div style="margin-bottom: 30px; overflow: hidden;">
   <img src="/assets/img/suffrae_marche.jpg" style="width: 170px; height: 170px; object-fit: cover; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Suffrage research">
   
-  <h6 style="margin: 0 0 5px 0;"><strong>• Exposure to women's political mobilization and gender roles</strong> </h6>
+  <h5 style="margin: 0 0 5px 0;"><strong>• Exposure to women's political mobilization and gender roles</strong> </h5>
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">Runner-up for the EMUEA 2024 Best Student Paper</p>
   
   <button onclick="toggleContent('abstract1')" 
@@ -39,7 +39,7 @@ nav_order: 3
 <div style="margin-bottom: 30px; overflow: hidden;">
   <img src="/assets/img/highway.PNG" style="width: 170px; height: 170px; object-fit: cover; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Highways research">
   
-  <h6 style="margin: 0 0 5px 0;"><strong>• Roads, education and employment: evidence from the US rural highways</strong></h6>
+  <h5 style="margin: 0 0 5px 0;"><strong>• Roads, education and employment: evidence from the US rural highways</strong></h5>
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://sites.google.com/site/clementbosquet/">Clément Bosquet</a></p>
 
   <button onclick="toggleContent('abstract2')" 
@@ -67,7 +67,7 @@ nav_order: 3
 <div style="margin-bottom: 30px; overflow: hidden;">
   <img src="/assets/img/miscegenation.PNG" style="width: 170px; height: 170px; object-fit: cover; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Interracial marriage research">
   
-  <h6 style="margin: 0 0 5px 0;"><strong>• Forbidden love: the impact of banning interracial marriages</strong></h6>
+  <h5 style="margin: 0 0 5px 0;"><strong>• Forbidden love: the impact of banning interracial marriages</strong></h5>
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://sites.google.com/view/bjoernbrey/home">Björn Brey</a>
   and <a href="https://sites.google.com/site/rziparo/">Roberta Ziparo</a></p>
 
@@ -96,7 +96,7 @@ nav_order: 3
 <div style="margin-bottom: 30px; overflow: hidden;">
   <img src="/assets/img/womenvoter.png" style="width: 170px; height: 170px; object-fit: cover; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Political participation research">
   
-  <h6 style="margin: 0 0 5px 0;"><strong>• Peer effects in women's political participation</strong></h6>
+  <h5 style="margin: 0 0 5px 0;"><strong>• Peer effects in women's political participation</strong></h5>
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://vincentbagilet.github.io/">Vincent Bagilet</a></p>
 </div>
 
