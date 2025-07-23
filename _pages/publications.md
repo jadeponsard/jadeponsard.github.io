@@ -74,7 +74,7 @@ nav_order: 3
   <div style="display: flex; align-items: flex-start;">
     <div style="flex: 1; margin-right: 25px;">
       <h5 style="margin: 0 0 5px 0;"><strong>• Forbidden love: the impact of banning interracial marriages</strong></h5>
-      <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">with <a href="https://sites.google.com/view/bjoernbrey/home">Björn Brey</a><br>
+      <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">with <a href="https://sites.google.com/view/bjoernbrey/home">Björn Brey</a>
       and <a href="https://sites.google.com/site/rziparo/">Roberta Ziparo</a></p>
 
       <button onclick="toggleContent('abstract3')" 
