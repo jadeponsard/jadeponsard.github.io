@@ -45,24 +45,25 @@ layout: default
       
       .about-profile {
         margin-left: 0;
-        width: 100%; /* Pleine largeur sur mobile */
-        align-self: stretch; /* S'étend sur toute la largeur disponible */
-        margin-left: -15px; /* Compense les marges du container parent */
-        margin-right: -15px; /* Compense les marges du container parent */
+        width: 100vw;
+        position: relative;
+        left: 50%;
+        right: 50%;
+        margin-left: -50vw;
+        margin-right: -50vw;
       }
       
       .about-profile img {
-        width: 100%; /* Force l'image à prendre toute la largeur */
+        width: 100%;
         height: auto;
-        object-fit: cover; /* Maintient les proportions */
+        object-fit: cover;
       }
     }
     
     /* Pour les très petits écrans */
     @media (max-width: 480px) {
       .about-profile {
-        margin-left: -20px; /* Ajustement pour très petits écrans */
-        margin-right: -20px;
+        /* Même style pour cohérence */
       }
     }
   </style>
