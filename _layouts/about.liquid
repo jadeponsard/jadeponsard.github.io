@@ -32,7 +32,28 @@ layout: default
       flex-shrink: 0;
     }
     
+    .about-profile-mobile {
+      width: 100%;
+      margin-top: 20px;
+    }
+    
+    .desktop-only {
+      display: block;
+    }
+    
+    .mobile-only {
+      display: none;
+    }
+    
     @media (max-width: 768px) {
+      .desktop-only {
+        display: none;
+      }
+      
+      .mobile-only {
+        display: block;
+      }
+      
       .about-container {
         flex-direction: column;
       }
@@ -42,13 +63,7 @@ layout: default
         margin-bottom: 20px;
       }
       
-      .about-profile {
-        margin-left: 0;
-        width: 100%;
-        align-self: flex-start;
-      }
-      
-      .about-profile img {
+      .about-profile-mobile img {
         width: 100%;
         height: auto;
       }
@@ -60,11 +75,11 @@ layout: default
       {{ content }}
     </div>
     {% if page.profile %}
-      <div class="about-profile"> 
+      <div class="about-profile desktop-only"> 
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
           {% assign profile_image_class = 'img-fluid' %}
-          {% capture sizes %}(min-width: {{site.max_width}}) 21vw, (max-width: 768px) 100vw, 21vw{% endcapture %}
+          {% capture sizes %}(min-width: {{site.max_width}}) 21vw, 21vw{% endcapture %}
           {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image cache_bust=true %}
         {% endif %}
         {% if page.profile.more_info %}
@@ -73,4 +88,18 @@ layout: default
       </div>
     {% endif %}
   </div>
+  
+  {% if page.profile %}
+    <div class="about-profile-mobile mobile-only">
+      {% if page.profile.image %}
+        {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
+        {% assign profile_image_class = 'img-fluid' %}
+        {% capture sizes %}100vw{% endcapture %}
+        {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image cache_bust=true %}
+      {% endif %}
+      {% if page.profile.more_info %}
+        <div class="more-info">{{ page.profile.more_info }}</div>
+      {% endif %}
+    </div>
+  {% endif %}
 </div>
