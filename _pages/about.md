@@ -18,7 +18,7 @@ I am a postdoctoral scholar at <a href="https://www.ens-lyon.fr/en/" target="_bl
 
 I am an applied microeconomist working at the intersection of **economic history**, **political economy**, and **urban economics**.
 
-In the fall of 2025, I will be visiting the Applied Micro team at Queen Mary University of London, hosted by Sebastian Axbard.
+In the fall of 2025, I will be visiting the Applied Micro team at Queen Mary University (London), hosted by Sebastian Axbard.
 
 I defended my PhD at <a href=" https://www.amse-aixmarseille.fr/en" target="_blank">Aix-Marseille School of Economics</a> in November 2024.
 
