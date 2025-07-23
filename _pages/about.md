@@ -18,9 +18,9 @@ I am a postdoctoral scholar at <a href="https://www.ens-lyon.fr/en/" target="_bl
 
 I am an applied microeconomist working at the intersection of **economic history**, **political economy**, and **urban economics**.
 
-I defended my PhD at <a href=" https://www.amse-aixmarseille.fr/en" target="_blank">Aix-Marseille School of Economics</a> in November 2024.
+In the fall of 2025, I will be visiting the Applied Micro team at Queen Mary University of London, hosted by Sebastian Axbard.
 
-In the fall of 2023, I visited Boston University sponsored by <a href="https://jamesfeigenbaum.github.io/" target="_blank">James Feigenbaum</a>, <a href="https://sites.google.com/site/martinfiszbein/" target="_blank">Martin Fiszbein</a> and <a href="https://sites.google.com/view/bmarx/home" target="_blank">Benjamin Marx</a>.
+I defended my PhD at <a href=" https://www.amse-aixmarseille.fr/en" target="_blank">Aix-Marseille School of Economics</a> in November 2024.
 
 You can find my **CV** <a href="https://drive.google.com/file/d/1J6WZmj80eGULlUOtNKYpzriHIkcjyRB3/view?usp=share_link" target="_blank" style="background-color: #f0f0f0; padding: 2px 5px; border-radius: 3px;">here</a>.
 
