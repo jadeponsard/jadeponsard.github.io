@@ -1,83 +1,100 @@
 ---
 layout: default
 ---
+
 <div class="post">
   <header class="post-header">
     <h1 class="post-title">
       {% if site.title == 'blank' %}
-       {{ site.first_name }} {{ site.middle_name }}
-        <span class="font-weight-bold">{{ site.last_name }}</span>
+        {{ site.first_name }} {{ site.middle_name }} <span class="font-weight-bold">{{ site.last_name }}</span>
       {% else %}
         {{ site.title }}
       {% endif %}
     </h1>
     <p class="desc">{{ page.subtitle }}</p>
   </header>
+
+<style>
+.about-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.about-content {
+  flex-grow: 1;
+  margin-right: 20px;
+}
+
+.about-profile {
+  margin-left: 20.5px;
+  width: 24%;
+  flex-shrink: 0;
+}
+
+/* Media query pour mobile */
+@media (max-width: 768px) {
+  .about-container {
+    flex-direction: column;
+  }
   
-  <style>
-    .about-container {
-      display: flex;
-      justify-content: space-between;
-      align-items: flex-start;
-    }
-    
-    .about-content {
-      flex-grow: 1;
-      margin-right: 20px;
-    }
-    
-    .about-profile {
-      margin-left: 20.5px;
-      width: 24%;
-      flex-shrink: 0;
-    }
-    
-    @media (max-width: 768px) {
-      .about-container {
-        flex-direction: column;
-      }
-      
-      .about-content {
-        margin-right: 0;
-        margin-bottom: 20px;
-      }
-      
-      .about-profile {
-        margin-left: 0;
-        width: 100%;
-        align-self: flex-start;
-      }
-      
-      .about-profile img {
-        max-width: 100%;
-        height: auto;
-      }
-    }
-    
-    @media (max-width: 480px) {
-      .about-profile {
-        width: 100%;
-      }
-    }
-  </style>
+  .about-content {
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
   
-  <div class="about-container">
-    <div class="about-content"> 
-      {{ content }}
-    </div>
-    {% if page.profile %}
-      <div class="about-profile"> 
-        {% if page.profile.image %}
-          {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
-          {% assign profile_image_class = 'img-fluid' %}
-          {% capture sizes %}(min-width: {{site.max_width}}) 21vw, (max-width: 768px) 85vw, 21vw{% endcapture %}
-          {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image cache_bust=true %}
-        {% endif %}
-        {% if page.profile.more_info %}
-          <div class="more-info">{{ page.profile.more_info }}</div>
-        {% endif %}
-      </div>
-    {% endif %}
-    
+  .about-profile {
+    margin-left: 0;
+    width: 100%;
+    align-self: center; /* Centre le conteneur de l'image */
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centre le contenu à l'intérieur */
+  }
+  
+  .about-profile img {
+    max-width: 70%; /* Image plus grande sur mobile */
+    height: auto;
+  }
+  
+  .about-profile .more-info {
+    text-align: center; /* Centre aussi les infos supplémentaires */
+    margin-top: 15px;
+  }
+}
+
+/* Pour les très petits écrans */
+@media (max-width: 480px) {
+  .about-profile img {
+    max-width: 80%; /* Encore plus grande sur très petits écrans */
+  }
+}
+</style>
+
+<div class="about-container">
+  <!-- Content -->
+  <div class="about-content">
+    {{ content }}
   </div>
+  
+  <!-- Profile Image -->
+  {% if page.profile %}
+    <div class="about-profile">
+      {% if page.profile.image %}
+        {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
+        <!-- Removed the 'z-depth-1' class to eliminate the shadow effect -->
+        {% assign profile_image_class = 'img-fluid' %}
+        <!-- Adjusted size for better alignment with the text -->
+        {% capture sizes %}(min-width: {{site.max_width}}) 21vw, (max-width: 768px) 70vw, 21vw{% endcapture %}
+        {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image cache_bust=true %}
+      {% endif %}
+      
+      {% if page.profile.more_info %}
+        <div class="more-info">{{ page.profile.more_info }}</div>
+      {% endif %}
+    </div>
+  {% endif %}
+</div>
+
+<!-- Remaining sections unchanged -->
 </div>
