@@ -22,5 +22,5 @@ In the fall of 2025, I will be visiting the Applied Micro team at Queen Mary Uni
 
 I defended my PhD at <a href=" https://www.amse-aixmarseille.fr/en" target="_blank">Aix-Marseille School of Economics</a> in November 2024.
 
-You can find my **CV** <a href="https://drive.google.com/file/d/1J6WZmj80eGULlUOtNKYpzriHIkcjyRB3/view?usp=share_link" target="_blank" style="background-color: #f0f0f0; padding: 2px 5px; border-radius: 3px;">here</a>.
+You can find my **CV** <a href="https://drive.google.com/file/d/1vJHmK3pp34EM_TPcJ_FNU2bA-oa1M2v_/view?usp=sharing" target="_blank" style="background-color: #f0f0f0; padding: 2px 5px; border-radius: 3px;">here</a>.
 
