@@ -71,9 +71,7 @@ layout: default
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
           {% assign profile_image_class = 'img-fluid' %}
           {% capture sizes %}(min-width: {{site.max_width}}) 21vw, (max-width: 768px) 85vw, 21vw{% endcapture %}
-          {%
-            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image cache_bust=true
-          %}
+          {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image cache_bust=true %}
         {% endif %}
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
