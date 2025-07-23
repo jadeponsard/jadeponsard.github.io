@@ -13,23 +13,70 @@ layout: default
     </h1>
     <p class="desc">{{ page.subtitle }}</p>
   </header>
-
-  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-
+  
+  <style>
+    .about-container {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+    }
+    
+    .about-content {
+      flex-grow: 1;
+      margin-right: 20px;
+    }
+    
+    .about-profile {
+      margin-left: 20.5px;
+      width: 24%;
+      flex-shrink: 0;
+    }
+    
+    /* Media query pour mobile */
+    @media (max-width: 768px) {
+      .about-container {
+        flex-direction: column;
+      }
+      
+      .about-content {
+        margin-right: 0;
+        margin-bottom: 20px;
+      }
+      
+      .about-profile {
+        margin-left: 0;
+        width: 60%;
+        align-self: center;
+      }
+      
+      .about-profile img {
+        max-width: 100%;
+        height: auto;
+      }
+    }
+    
+    /* Pour les très petits écrans */
+    @media (max-width: 480px) {
+      .about-profile {
+        width: 70%;
+      }
+    }
+  </style>
+  
+  <div class="about-container">
     <!-- Content -->
-    <div class="content" style="flex-grow: 1; margin-right: 20px;"> 
+    <div class="about-content"> 
       {{ content }}
     </div>
-
     <!-- Profile Image -->
     {% if page.profile %}
-      <div class="profile" style="margin-left: 20.5px; width: 24%; flex-shrink: 0;"> 
+      <div class="about-profile"> 
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
           <!-- Removed the 'z-depth-1' class to eliminate the shadow effect -->
           {% assign profile_image_class = 'img-fluid' %}
           <!-- Adjusted size for better alignment with the text -->
-          {% capture sizes %}(min-width: {{site.max_width}}) 21vw, 21vw, 95vw{% endcapture %}
+          {% capture sizes %}(min-width: {{site.max_width}}) 21vw, (max-width: 768px) 60vw, 21vw{% endcapture %}
           {%
             include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image cache_bust=true
           %}
@@ -41,6 +88,5 @@ layout: default
     {% endif %}
     
   </div>
-
   <!-- Remaining sections unchanged -->
 </div>
