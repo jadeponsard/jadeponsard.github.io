@@ -32,7 +32,6 @@ layout: default
       flex-shrink: 0;
     }
     
-    /* Media query pour mobile */
     @media (max-width: 768px) {
       .about-container {
         flex-direction: column;
@@ -45,51 +44,33 @@ layout: default
       
       .about-profile {
         margin-left: 0;
-        width: 100vw;
-        position: relative;
-        left: 50%;
-        right: 50%;
-        margin-left: -50vw;
-        margin-right: -50vw;
+        width: 100%;
+        align-self: flex-start;
       }
       
       .about-profile img {
         width: 100%;
         height: auto;
-        object-fit: cover;
-      }
-    }
-    
-    /* Pour les très petits écrans */
-    @media (max-width: 480px) {
-      .about-profile {
-        /* Même style pour cohérence */
       }
     }
   </style>
   
   <div class="about-container">
-    <!-- Content -->
     <div class="about-content"> 
       {{ content }}
     </div>
-    <!-- Profile Image -->
     {% if page.profile %}
       <div class="about-profile"> 
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
           {% assign profile_image_class = 'img-fluid' %}
           {% capture sizes %}(min-width: {{site.max_width}}) 21vw, (max-width: 768px) 100vw, 21vw{% endcapture %}
-          {%
-            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image cache_bust=true
-          %}
+          {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image cache_bust=true %}
         {% endif %}
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
       </div>
     {% endif %}
-    
   </div>
-  <!-- Remaining sections unchanged -->
 </div>
