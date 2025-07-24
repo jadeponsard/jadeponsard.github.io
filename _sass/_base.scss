@@ -534,6 +534,8 @@ footer.sticky-bottom {
   h1 {
     color: var(--global-theme-color);
     font-size: 5rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
   }
 }
 
@@ -1140,4 +1142,3 @@ swiper-container {
   --swiper-pagination-color: var(--global-theme-color);
   --swiper-pagination-bullet-inactive-color: var(--global-text-color);
 }
-
