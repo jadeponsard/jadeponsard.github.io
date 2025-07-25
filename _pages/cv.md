@@ -6,7 +6,7 @@ description: ""
 nav: true
 nav_order: 7
 ---
-<div class="cv-container" style="width: 100%; height: 90vh; margin: 20px 0;">
+<div class="cv-container" style="width: 100%; height: 90vh; margin: 40px 0 20px 0;">
     <iframe 
         src="https://drive.google.com/file/d/1vJHmK3pp34EM_TPcJ_FNU2bA-oa1M2v_/preview" 
         width="100%" 
