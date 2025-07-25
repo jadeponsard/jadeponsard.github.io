@@ -6,8 +6,7 @@ description: ""
 nav: true
 nav_order: 7
 ---
-
-<div class="cv-container" style="width: 100%; height: 800px; margin: 20px 0;">
+<div class="cv-container" style="width: 100%; height: 90vh; margin: 20px 0;">
     <iframe 
         src="https://drive.google.com/file/d/1vJHmK3pp34EM_TPcJ_FNU2bA-oa1M2v_/preview" 
         width="100%" 
@@ -16,7 +15,6 @@ nav_order: 7
         style="border: 1px solid var(--global-divider-color); border-radius: 8px;">
     </iframe>
 </div>
-
 <div class="cv-download" style="text-align: center; margin-top: 20px;">
     <a href="https://drive.google.com/file/d/1vJHmK3pp34EM_TPcJ_FNU2bA-oa1M2v_/view?usp=sharing" 
        target="_blank" 
