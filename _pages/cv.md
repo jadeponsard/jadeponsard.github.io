@@ -16,7 +16,7 @@ nav_order: 7
     </iframe>
 </div>
 <div class="cv-download" style="text-align: center; margin-top: 20px;">
-    <a href="https://drive.google.com/file/d/1ohwWEyOudX6GLafs6dlDO3utQiHLGEp4/view?usp=drive_link" 
+    <a href="https://drive.google.com/file/d/1ohwWEyOudX6GLafs6dlDO3utQiHLGEp4/view?usp=sharing" 
        target="_blank" 
        style="background-color: #f5f5f5; color: #666; padding: 8px 16px; text-decoration: none; border-radius: 4px; display: inline-block; border: 1px solid #ddd; font-size: 14px; transition: all 0.2s ease;">
         Download CV
