@@ -98,7 +98,6 @@ nav_order: 3
   
   <h5 style="margin: 0 0 5px 0;"><strong>• Peer effects in women's political participation</strong></h5>
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://vincentbagilet.github.io/">Vincent Bagilet</a></p>
-</div>
 
   <button onclick="toggleContent('abstract4')" 
           style="padding: 3px 6px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
@@ -110,7 +109,7 @@ nav_order: 3
   <div id="abstract4" style="display: none; margin-top: 10px;">
       <p style="font-size: 0.85em; text-align: justify;"> Abstract: To what extent does horizontal norm transmission shape women’s voting culture? This paper examines how exposure to neighbors with entrenched voting norms can influence the likelihood of registering to vote. To quantify potential peer effects, we focus on women neighbors who migrated to Boston from U.S. states where women had been enfranchised prior to 1920, the year women gained the right to vote nationwide. Using precise residential addresses, we reconstruct fine-grained neighborhood communities and local social networks. We then aim to study the impact of exposure to women from early-suffrage states on both the behavior and normative beliefs of their women neighbors, exploiting idiosyncratic variation at the block level: while households may select their neighborhood, the specific block of residence is largely determined by quasi-random factors. Preliminary evidence suggests that women living near migrants from early-suffrage states were more likely to register to vote.</p>
   </div>
-</div>
+
 
 <script>
 function toggleContent(contentId) {
