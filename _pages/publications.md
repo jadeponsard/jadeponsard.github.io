@@ -11,7 +11,7 @@ nav_order: 3
 <div style="margin-bottom: 30px; overflow: hidden;">
   <img src="/assets/img/suffrae_marche.jpg" style="width: 170px; height: 170px; object-fit: cover; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Suffrage research">
   
-  <h5 style="margin: 0 0 5px 0;"><strong>• Exposure to women's political mobilization and gender roles</strong> </h5>
+  <h5 style="margin: 0 0 5px 0;"><strong>• Women's political mobilization and gender roles</strong> </h5>
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">Runner-up for the EMUEA 2024 Best Student Paper</p>
   
   <button onclick="toggleContent('abstract1')" 
@@ -28,10 +28,10 @@ nav_order: 3
   </button>
 
   <div id="abstract1" style="display: none; margin-top: 10px;">
-      <p style="font-size: 0.85em; text-align: justify;"> Abstract: Can exposure to street demonstrations lead to lasting changes in social roles and representations? This paper studies the effects of women-organized suffrage marches between 1912 and 1914 on the East Coast of the United States. In many towns, these marches were among the first instances of women occupying public space. I combine newly digitized data on the marches with newspaper archives and census records to measure subsequent outcomes. Exploiting routes of comparable importance within the same regions, I implement an event-study and a difference-in-differences design. Exposure to the marches increased women’s presence in public life, as reflected in higher levels of local activism led by women. Further evidence suggests spillover effects in the private sphere with a decline in fertility among married women and a rise in educational attainment among girls. </p>
+      <p style="font-size: 0.85em; text-align: justify;"> Abstract: Can exposure to women's political mobilization during formative years shape gender roles? I study the causal impact of a march organized in 1913  between Newark and Washington, DC, to advocate for women's suffrage, which highly increased women's political visibility in towns along its route. I combine newly digitized data on the march itinerary with newspaper archives and linked census records. Comparing over time towns along the route to comparable towns along a nearby major road, I implement an event-study and a triple-difference design. Newspaper evidence indicates that the march led to a sustained increase in the local visibility of women in public life, beyond the one-time demonstration. Consistent with this, although gender roles were already evolving, exposure to the march--and to the sustained increase in women's political participation--appears to have accelerated this transformation. Women exposed during formative years are more likely to report being ``gainfully employed," delay marriage, and postpone fertility. </p>
   </div>
   <div id="presentation1" style="display: none; margin-top: 10px;">
-      <p style="font-size: 0.85em; text-align: justify;"> Presentations: IEB Workshop on Political Economy, AFEPOP, Yale–UB HPE Workshop, European meeting of the UEA, XVI COSME Gender Economics Workshop, EEAYE, EHS, IMERA-AMSE Workshop in Gender inequalities, Development Reading Group at Boston University, Graduate Workshop in Economic History at Harvard University, World Cliometrics Conference, LAGV, AFSE, FRESH Workshop, IRES Lunch Seminar and Lewis Lab Graduate Student Workshop.</p>
+      <p style="font-size: 0.85em; text-align: justify;"> Presentations:  Queen Mary University of London, Berlin Colloquium in Economic History, IEB Workshop on Political Economy, AFEPOP, Yale–UB HPE Workshop, European meeting of the UEA, XVI COSME Gender Economics Workshop, EEAYE, EHS, IMERA-AMSE Workshop in Gender inequalities, Development Reading Group at Boston University, Graduate Workshop in Economic History at Harvard University, World Cliometrics Conference, LAGV, AFSE, FRESH Workshop, IRES Lunch Seminar and Lewis Lab Graduate Student Workshop.</p>
   </div>
 </div>
 
