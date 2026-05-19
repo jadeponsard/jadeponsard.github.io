@@ -112,15 +112,15 @@ nav_order: 3
 </div>
 
 <!-- Projet 5 -->
-<div style="margin-bottom: 30px; overflow: hidden; margin-right: 195px;">
-  <h5 style="margin: 0 0 5px 0;"><strong>• The Political Consequences of the 1983 March for Equality and Against Racism</strong></h5>
-  <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://camiloumanadajud.com/">C. Umana Dajud</a> and <a href="https://sites.google.com/view/valettejerome/home">J. Valette</a></p>
+<div style="margin-bottom: 30px; overflow: hidden;">
+  <h5 style="margin: 0 0 5px 0;"><strong>• When Women Vote: Political Platforms and the Expansion of Suffrage in the United States</strong></h5>
+  <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://maximechabriel.github.io/">M. Chabriel</a> and <a href="https://sites.google.com/site/sophiehatte/">S. Hatte</a></p>
 </div>
 
 <!-- Projet 6 -->
-<div style="margin-bottom: 30px; overflow: hidden; margin-right: 195px;">
-  <h5 style="margin: 0 0 5px 0;"><strong>• When Women Vote: Political Platforms and the Expansion of Suffrage in the United States</strong></h5>
-  <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://maximechabriel.github.io/">M. Chabriel</a> and <a href="https://sites.google.com/site/sophiehatte/">S. Hatte</a></p>
+<div style="margin-bottom: 30px; overflow: hidden;">
+  <h5 style="margin: 0 0 5px 0;"><strong>• The Political Consequences of the 1983 March for Equality and Against Racism</strong></h5>
+  <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://camiloumanadajud.com/">C. Umana Dajud</a> and <a href="https://sites.google.com/view/valettejerome/home">J. Valette</a></p>
 </div>
 
 <script>
