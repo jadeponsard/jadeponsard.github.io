@@ -40,7 +40,7 @@ nav_order: 3
   <img src="/assets/img/highway.PNG" style="width: 170px; height: 170px; object-fit: cover; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Highways research">
   
   <h5 style="margin: 0 0 5px 0;"><strong>• Roads, employment and education: evidence from the US rural highways</strong></h5>
-  <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://sites.google.com/site/clementbosquet/">Clément Bosquet</a></p>
+  <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://sites.google.com/site/clementbosquet/">C. Bosquet</a></p>
 
   <button onclick="toggleContent('abstract2')" 
           style="padding: 3px 6px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
@@ -68,8 +68,8 @@ nav_order: 3
   <img src="/assets/img/miscegenation.PNG" style="width: 170px; height: 170px; object-fit: cover; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Interracial marriage research">
   
   <h5 style="margin: 0 0 5px 0;"><strong>• Forbidden love: the impact of banning interracial marriages</strong></h5>
-  <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://sites.google.com/view/bjoernbrey/home">Björn Brey</a>
-  and <a href="https://sites.google.com/site/rziparo/">Roberta Ziparo</a></p>
+  <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://sites.google.com/view/bjoernbrey/home">B. Brey</a>
+  and <a href="https://sites.google.com/site/rziparo/">R. Ziparo</a></p>
 
   <button onclick="toggleContent('abstract3')" 
           style="padding: 3px 6px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
@@ -97,19 +97,31 @@ nav_order: 3
   <img src="/assets/img/womenvoter.png" style="width: 170px; height: 170px; object-fit: cover; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Political participation research">
   
   <h5 style="margin: 0 0 5px 0;"><strong>• Peer effects in women's political participation</strong></h5>
-  <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://vincentbagilet.github.io/">Vincent Bagilet</a></p>
+  <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://vincentbagilet.github.io/">V. Bagilet</a></p>
 
   <button onclick="toggleContent('abstract4')" 
           style="padding: 3px 6px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
                  background-color: #f0f0f0; border-radius: 3px; cursor: pointer; 
                  transition: background-color 0.3s, transform 0.2s;">
-      Abstract <span id="arrow-abstract3" class="arrow" style="font-size: 0.7em;">▼</span>
+      Abstract <span id="arrow-abstract4" class="arrow" style="font-size: 0.7em;">▼</span>
   </button>
 
   <div id="abstract4" style="display: none; margin-top: 10px;">
-      <p style="font-size: 0.85em; text-align: justify;"> Abstract: To what extent does horizontal norm transmission shape women’s voting culture? This paper examines how exposure to neighbors with entrenched voting norms can influence the likelihood of registering to vote. To quantify potential peer effects, we focus on women neighbors who migrated to Boston from U.S. states where women had been enfranchised prior to 1920, the year women gained the right to vote nationwide. Using precise residential addresses, we reconstruct fine-grained neighborhood communities and local social networks. We then aim to study the impact of exposure to women from early-suffrage states on both the behavior and normative beliefs of their women neighbors, exploiting idiosyncratic variation at the block level: while households may select their neighborhood, the specific block of residence is largely determined by quasi-random factors. Preliminary evidence suggests that women living near migrants from early-suffrage states were more likely to register to vote.</p>
+      <p style="font-size: 0.85em; text-align: justify;"> Abstract: To what extent does horizontal norm transmission shape women's voting culture? This paper examines how exposure to neighbors with entrenched voting norms can influence the likelihood of registering to vote. To quantify potential peer effects, we focus on women neighbors who migrated to Boston from U.S. states where women had been enfranchised prior to 1920, the year women gained the right to vote nationwide. Using precise residential addresses, we reconstruct fine-grained neighborhood communities and local social networks. We then aim to study the impact of exposure to women from early-suffrage states on both the behavior and normative beliefs of their women neighbors, exploiting idiosyncratic variation at the block level: while households may select their neighborhood, the specific block of residence is largely determined by quasi-random factors. Preliminary evidence suggests that women living near migrants from early-suffrage states were more likely to register to vote.</p>
   </div>
+</div>
 
+<!-- Projet 5 -->
+<div style="margin-bottom: 30px; overflow: hidden;">
+  <h5 style="margin: 0 0 5px 0;"><strong>• The Political Consequences of the 1983 March for Equality and Against Racism</strong></h5>
+  <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://camiloumanadajud.com/">C. Umana Dajud</a> and <a href="https://sites.google.com/view/valettejerome/home">J. Valette</a></p>
+</div>
+
+<!-- Projet 6 -->
+<div style="margin-bottom: 30px; overflow: hidden;">
+  <h5 style="margin: 0 0 5px 0;"><strong>• When Women Vote: Political Platforms and the Expansion of Suffrage in the United States</strong></h5>
+  <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://maximechabriel.github.io/">M. Chabriel</a> and <a href="https://sites.google.com/site/sophiehatte/">S. Hatte</a></p>
+</div>
 
 <script>
 function toggleContent(contentId) {
