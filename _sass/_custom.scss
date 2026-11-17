@@ -1,0 +1,18 @@
+/* Match the editorial typography and burgundy accent from the reference research page. */
+:root,
+html[data-theme="dark"] {
+  --global-theme-color: #af2443;
+  --global-hover-color: #7d1730;
+  --global-hover-text-color: #7d1730;
+}
+
+body {
+  font-family: "Spectral", Georgia, "Times New Roman", serif;
+}
+
+code,
+pre,
+kbd,
+samp {
+  font-family: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+}
