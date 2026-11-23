@@ -62,7 +62,7 @@ nav_order: 3
   <img src="/assets/img/highway.PNG" style="width: 170px; height: 170px; object-fit: cover; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Highways research">
   
   <h5 style="margin: 0 0 5px 0;"><strong>• Roads, employment and education: evidence from the US rural highways</strong></h5>
-  <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://sites.google.com/site/clementbosquet/">C. Bosquet</a> <em>[draft upon request]</em></p>
+  <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://sites.google.com/site/clementbosquet/">C. Bosquet</a> [draft upon request]</p>
 
   <button onclick="toggleContent('abstract2')" 
           style="padding: 3px 6px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
@@ -91,7 +91,7 @@ nav_order: 3
   
   <h5 style="margin: 0 0 5px 0;"><strong>• Forbidden love: the impact of banning interracial marriages</strong></h5>
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://sites.google.com/view/bjoernbrey/home">B. Brey</a>
-  and <a href="https://sites.google.com/site/rziparo/">R. Ziparo</a> <em>[draft upon request]</em></p>
+  and <a href="https://sites.google.com/site/rziparo/">R. Ziparo</a> [draft upon request]</p>
 
   <button onclick="toggleContent('abstract3')" 
           style="padding: 3px 6px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
@@ -119,7 +119,7 @@ nav_order: 3
   <img src="/assets/img/womenvoter.png" style="width: 170px; height: 170px; object-fit: cover; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Political participation research">
   
   <h5 style="margin: 0 0 5px 0;"><strong>• Peer effects in women's political participation</strong></h5>
-  <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://vincentbagilet.github.io/">V. Bagilet</a> <em>[draft upon request]</em></p>
+  <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://vincentbagilet.github.io/">V. Bagilet</a> [draft upon request]</p>
 
   <button onclick="toggleContent('abstract4')" 
           style="padding: 3px 6px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
@@ -138,7 +138,7 @@ nav_order: 3
   <img src="/assets/img/marche1983.png" style="width: 170px; height: 170px; object-fit: cover; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="1983 March for Equality">
 
   <h5 style="margin: 0 0 5px 0;"><strong>• The political consequences of the 1983 March for Equality and Against Racism</strong></h5>
-  <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://camiloumanadajud.com/">C. Umana Dajud</a> and <a href="https://sites.google.com/view/valettejerome/home">J. Valette</a></p>
+  <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://camiloumanadajud.com/">C. Umana Dajud</a> and <a href="https://sites.google.com/view/valettejerome/home">J. Valette</a> [draft upon request]</p>
 
   <button onclick="toggleContent('abstract5')" 
           style="padding: 3px 6px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
