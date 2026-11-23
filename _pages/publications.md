@@ -7,12 +7,15 @@ nav: true
 nav_order: 3
 ---
 
-
 <style>
   article button {
     margin-bottom: 8px;
   }
 </style>
+
+<p style="text-align: justify; margin: 10px 0 35px 0;">
+  My research lies at the intersection of economic history, political economy, and urban economics. It is organized around three complementary themes: (i) the effects of collective action on social roles and political behavior; (ii) the diffusion of political participation and the consequences of the expansion of voting rights; and (iii) the role of institutions and infrastructure in shaping economic inequalities and individual trajectories. Across these themes, I pay particular attention to gender and historically marginalized groups.
+</p>
 
 <!-- ===================== WORKING PAPERS ===================== -->
 <h4 style="margin: 10px 0 20px 0; border-bottom: 1px solid #ddd; padding-bottom: 5px;">Working paper</h4>
