@@ -17,4 +17,4 @@ I am a postdoctoral scholar at <a href="https://www.ens-lyon.fr/en/" target="_bl
 
 I am an applied microeconomist working at the intersection of **economic history**, **political economy**, and **urban economics**.
 
-You can find my **CV** <a href="hhttps://drive.google.com/file/d/1GFyr5xTPtSA409c-2vfvK553Cy6ipj2T/view?usp=drive_link" target="_blank" style="background-color: #f0f0f0; padding: 2px 5px; border-radius: 3px;">here</a>.
+You can find my **CV** <a href="https://drive.google.com/file/d/1GFyr5xTPtSA409c-2vfvK553Cy6ipj2T/view?usp=sharing" target="_blank" style="background-color: #f0f0f0; padding: 2px 5px; border-radius: 3px;">here</a>.
