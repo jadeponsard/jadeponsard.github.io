@@ -8,7 +8,7 @@ nav_order: 7
 ---
 <div class="cv-container" style="width: 100%; height: 90vh; margin: 40px 0 20px 0;">
     <iframe 
-        src="https://https://drive.google.com/file/d/1GFyr5xTPtSA409c-2vfvK553Cy6ipj2T/preview" 
+        src="https://drive.google.com/file/d/1GFyr5xTPtSA409c-2vfvK553Cy6ipj2T/preview" 
         width="100%" 
         height="100%" 
         frameborder="0"
