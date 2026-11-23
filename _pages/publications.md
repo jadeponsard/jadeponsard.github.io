@@ -154,9 +154,22 @@ nav_order: 3
 
 <!-- Projet 6 : When women vote -->
 <div style="margin-bottom: 30px; overflow: hidden;">
-  <img src="/assets/img/womenvote.png" style="width: 170px; height: 170px; object-fit: cover; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Women's suffrage and political platforms">
+  <img src="/assets/img/womenvote.png" style="width: 170px; height: 170px; object-fit: cover; object-position: top; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Women's suffrage and political platforms">
 
   <h5 style="margin: 0 0 5px 0;"><strong>• When women vote: political platforms and the expansion of suffrage in the United States</strong></h5>
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://maximechabriel.github.io/">M. Chabriel</a> and <a href="https://sites.google.com/site/sophiehatte/">S. Hatte</a></p>
 </div>
+
+<script>
+function toggleContent(contentId) {
+    var content = document.getElementById(contentId);
+    var arrow = document.getElementById('arrow-' + contentId);
+    if (content.style.display === "none") {
+        content.style.display = "block";
+        arrow.textContent = "▲";
+    } else {
+        content.style.display = "none";
+        arrow.textContent = "▼";
+    }
+}
 </script>
