@@ -14,7 +14,7 @@ nav_order: 3
 </style>
 
 <p style="text-align: justify; margin: 10px 0 35px 0;">
-  My research lies at the intersection of economic history, political economy, and urban economics. It is organized around three complementary themes: (i) the effects of collective action on social roles and political behavior; (ii) the diffusion of political participation and the consequences of the expansion of voting rights; and (iii) the role of institutions and infrastructure in shaping economic inequalities and individual trajectories. Across these themes, I pay particular attention to gender and historically marginalized groups.
+  My research lies at the intersection of economic history, political economy, and urban economics. I am particularly interested in (i) how collective action shapes social norms and political behavior; (ii) the diffusion of political participation and the consequences of expanding voting rights; and (iii) how institutions and infrastructure shape economic inequalities and individual trajectories. Across these themes, I pay particular attention to gender and historically marginalized groups.
 </p>
 
 <!-- ===================== WORKING PAPERS ===================== -->
