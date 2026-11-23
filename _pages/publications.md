@@ -133,28 +133,30 @@ nav_order: 3
   </div>
 </div>
 
-<!-- Projet 5 -->
+<!-- Projet 5 : Marche de 1983 -->
 <div style="margin-bottom: 30px; overflow: hidden;">
+  <img src="/assets/img/marche1983.png" style="width: 170px; height: 170px; object-fit: cover; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="1983 March for Equality">
+
+  <h5 style="margin: 0 0 5px 0;"><strong>• The political consequences of the 1983 March for Equality and Against Racism</strong></h5>
+  <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://camiloumanadajud.com/">C. Umana Dajud</a> and <a href="https://sites.google.com/view/valettejerome/home">J. Valette</a></p>
+
+  <button onclick="toggleContent('abstract5')" 
+          style="padding: 3px 6px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
+                 background-color: #f0f0f0; border-radius: 3px; cursor: pointer; 
+                 transition: background-color 0.3s, transform 0.2s;">
+      Abstract <span id="arrow-abstract5" class="arrow" style="font-size: 0.7em;">▼</span>
+  </button>
+
+  <div id="abstract5" style="display: none; margin-top: 10px;">
+      <p style="font-size: 0.85em; text-align: justify;"> Abstract: This paper studies how natives respond when second-generation immigrants mobilize and become politically salient, using geographic variation in exposure to France's 1983 March for Equality and Against Racism, the first nationwide protest led by the children of postcolonial immigrants. Relying on archival sources, we reconstruct the march's most likely route and combine it with municipal returns from legislative elections between 1967 and 2012. A difference-in-differences design then compares the evolution of vote shares in municipalities closer to the announced route with that in nearby municipalities farther from it. The results show a persistent backlash. After 1983, municipalities nearer the route experienced a X-percentage-point increase in the vote share of anti-immigration right-wing candidates, mostly at the expense of the incumbent Socialist left, and this effect remained detectable for nearly fifteen years. Additional placebo tests and an instrumental-variables strategy based on deviations between the announced and documented routes support the causal interpretation of the estimates. Exploiting rainfall at the estimated time of passage, we also find a stronger backlash when rain likely limited opportunities for direct contact, suggesting that contact attenuated the threat response.</p>
+  </div>
+</div>
+
+<!-- Projet 6 : When women vote -->
+<div style="margin-bottom: 30px; overflow: hidden;">
+  <img src="/assets/img/womenvote.png" style="width: 170px; height: 170px; object-fit: cover; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Women's suffrage and political platforms">
+
   <h5 style="margin: 0 0 5px 0;"><strong>• When women vote: political platforms and the expansion of suffrage in the United States</strong></h5>
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://maximechabriel.github.io/">M. Chabriel</a> and <a href="https://sites.google.com/site/sophiehatte/">S. Hatte</a></p>
 </div>
-
-<!-- Projet 6 -->
-<div style="margin-bottom: 30px; overflow: hidden;">
-  <h5 style="margin: 0 0 5px 0;"><strong>• The political consequences of the 1983 March for Equality and Against Racism</strong></h5>
-  <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://camiloumanadajud.com/">C. Umana Dajud</a> and <a href="https://sites.google.com/view/valettejerome/home">J. Valette</a></p>
-</div>
-
-<script>
-function toggleContent(contentId) {
-    var content = document.getElementById(contentId);
-    var arrow = document.getElementById('arrow-' + contentId);
-    if (content.style.display === "none") {
-        content.style.display = "block";
-        arrow.textContent = "▲";
-    } else {
-        content.style.display = "none";
-        arrow.textContent = "▼";
-    }
-}
 </script>
