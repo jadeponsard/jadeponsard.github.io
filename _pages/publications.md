@@ -17,12 +17,12 @@ nav_order: 3
   <h5 style="margin: 0 0 5px 0;"><strong>• Women's political mobilization and gender roles</strong> </h5>
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">Runner-up for the EMUEA 2024 Best Student Paper</p>
   
-  <a href="https://hal.science/hal-05868059" target="_blank" rel="noopener"
-     style="display: inline-block; padding: 3px 6px; font-size: 0.8em; margin-left: 5px; 
-            background-color: #f0f0f0; border-radius: 3px; color: inherit; text-decoration: none; 
-            transition: background-color 0.3s, transform 0.2s;">
+  <button onclick="window.open('https://hal.science/hal-05868059', '_blank')" 
+          style="padding: 3px 6px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
+                 background-color: #f0f0f0; border-radius: 3px; cursor: pointer; 
+                 transition: background-color 0.3s, transform 0.2s;">
       Working paper
-  </a>
+  </button>
   <button onclick="toggleContent('abstract1')" 
           style="padding: 3px 6px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
                  background-color: #f0f0f0; border-radius: 3px; cursor: pointer; 
@@ -37,10 +37,10 @@ nav_order: 3
   </button>
 
   <div id="abstract1" style="display: none; margin-top: 10px;">
-      <p style="font-size: 0.85em; text-align: justify;"> Abstract: Can exposure to women's political mobilization during formative years shape gender roles? I study the causal impact of a march organized in 1913  between Newark and Washington, DC, to advocate for women's suffrage, which highly increased women's political visibility in towns along its route. I combine newly digitized data on the march itinerary with newspaper archives and linked census records. Comparing over time towns along the route to comparable towns along a nearby major road, I implement an event-study and a triple-difference design. Newspaper evidence indicates that the march led to a sustained increase in the local visibility of women in public life, beyond the one-time demonstration. Consistent with this, although gender roles were already evolving, exposure to the march--and to the sustained increase in women's political participation--appears to have accelerated this transformation. Women exposed during formative years are more likely to report being ``gainfully employed," delay marriage, and postpone fertility. </p>
+      <p style="font-size: 0.85em; text-align: justify;"> Abstract: Can protests leave a social legacy beyond the institutional changes they seek to achieve? I study the 1913 women's suffrage march from Newark to Washington, DC, which brought women into public view to advocate for their right to vote. Exploiting variation in exposure across locations, cohorts, and time I find that women who were adolescents in exposed communities at the time of the march were subsequently more likely to be gainfully employed, marry later, and remain childless. To understand how a short-lived protest could have such lasting effects on women's life trajectories, I examine whether the march reshaped the local social environment in which young women formed their aspirations. In the years following the march, exposed communities experienced sharp increases in suffrage-related newspaper coverage and women's participation in civic clubs. These changes suggest that the march may have sustained public discussion of women's rights and increased the visibility of women's collective participation in public life. Taken together, the findings suggest that visible female political participation can weaken perceived social constraints and broaden young women's aspirations, with lasting consequences for gender roles. </p>
   </div>
   <div id="presentation1" style="display: none; margin-top: 10px;">
-      <p style="font-size: 0.85em; text-align: justify;"> Presentations:  Queen Mary University of London, Berlin Colloquium in Economic History, IEB Workshop on Political Economy, AFEPOP, Yale–UB HPE Workshop, European meeting of the UEA, XVI COSME Gender Economics Workshop, EEAYE, EHS, IMERA-AMSE Workshop in Gender inequalities, Development Reading Group at Boston University, Graduate Workshop in Economic History at Harvard University, World Cliometrics Conference, LAGV, AFSE, FRESH Workshop, IRES Lunch Seminar and Lewis Lab Graduate Student Workshop.</p>
+      <p style="font-size: 0.85em; text-align: justify;"> Presentations: 20th CESifo Workshop on Political Economy, 5th Women in Political Economics Workshop, Dauphine University LEDa seminar, ENCHOS VIII, Diversity and Human Capital Workshop, Workshop on Media, Identity and Norms, NICEP, LSE Economic History Graduate Seminar, Queen Mary University of London, Berlin Colloquium in Economic History, IEB Workshop on Political Economy, AFEPOP, Yale–UB HPE Workshop, European meeting of the UEA, XVI COSME Gender Economics Workshop, EEAYE, EHS, IMERA-AMSE Workshop in Gender inequalities, Development Reading Group at Boston University, Graduate Workshop in Economic History at Harvard University, World Cliometrics Conference, LAGV, AFSE, FRESH Workshop, IRES Lunch Seminar and Lewis Lab Graduate Student Workshop.</p>
   </div>
 </div>
 
