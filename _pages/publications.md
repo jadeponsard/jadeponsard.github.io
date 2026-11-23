@@ -14,19 +14,19 @@ nav_order: 3
 </style>
 
 <p style="text-align: justify; margin: 10px 0 35px 0;">
-  My research lies at the intersection of economic history, political economy, and urban economics. I am particularly interested in (i) how collective action shapes social norms and political behavior; (ii) the diffusion of political participation and the consequences of expanding voting rights; and (iii) how institutions and infrastructure shape economic inequalities and individual trajectories. Across these themes, I pay particular attention to gender and historically marginalized groups.
+  My research lies at the intersection of economic history, political economy, and urban economics. It is organized around three complementary themes: (i) the effects of collective action on social roles and political behavior; (ii) the diffusion of political participation and the consequences of the expansion of voting rights; and (iii) the role of institutions and infrastructure in shaping economic inequalities and individual trajectories. Across these themes, I pay particular attention to gender and historically marginalized groups.
 </p>
 
-<!-- ===================== WORKING PAPERS ===================== -->
+<!-- ===================== WORKING PAPER ===================== -->
 <h4 style="margin: 10px 0 20px 0; border-bottom: 1px solid #ddd; padding-bottom: 5px;">Working paper</h4>
 
-<!-- Projet 1 - Image flottante à droite -->
+<!-- Projet 1 -->
 <div style="margin-bottom: 30px; overflow: hidden;">
   <img src="/assets/img/suffrae_marche.jpg" style="width: 170px; height: 170px; object-fit: cover; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Suffrage research">
-  
-  <h5 style="margin: 0 0 5px 0;"><strong>• Women's political mobilization and gender roles</strong> </h5>
+
+  <h5 style="margin: 0 0 5px 0;"><strong>• Women's political mobilization and gender roles</strong></h5>
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">Runner-up for the EMUEA 2024 Best Student Paper</p>
-  
+
   <button onclick="window.open('https://hal.science/hal-05868059', '_blank')" 
           style="padding: 3px 6px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
                  background-color: #f0f0f0; border-radius: 3px; cursor: pointer; 
@@ -39,28 +39,19 @@ nav_order: 3
                  transition: background-color 0.3s, transform 0.2s;">
       Abstract <span id="arrow-abstract1" class="arrow" style="font-size: 0.7em;">▼</span>
   </button>
-  <button onclick="toggleContent('presentation1')" 
-          style="padding: 3px 6px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
-                 background-color: #f0f0f0; border-radius: 3px; cursor: pointer; 
-                 transition: background-color 0.3s, transform 0.2s;">
-      Presentation <span id="arrow-presentation1" class="arrow" style="font-size: 0.7em;">▼</span>
-  </button>
 
   <div id="abstract1" style="display: none; margin-top: 10px;">
-      <p style="font-size: 0.85em; text-align: justify;"> Abstract: Can protests leave a social legacy beyond the institutional changes they seek to achieve? I study the 1913 women's suffrage march from Newark to Washington, DC, which brought women into public view to advocate for their right to vote. Exploiting variation in exposure across locations, cohorts, and time I find that women who were adolescents in exposed communities at the time of the march were subsequently more likely to be gainfully employed, marry later, and remain childless. To understand how a short-lived protest could have such lasting effects on women's life trajectories, I examine whether the march reshaped the local social environment in which young women formed their aspirations. In the years following the march, exposed communities experienced sharp increases in suffrage-related newspaper coverage and women's participation in civic clubs. These changes suggest that the march may have sustained public discussion of women's rights and increased the visibility of women's collective participation in public life. Taken together, the findings suggest that visible female political participation can weaken perceived social constraints and broaden young women's aspirations, with lasting consequences for gender roles. </p>
-  </div>
-  <div id="presentation1" style="display: none; margin-top: 10px;">
-      <p style="font-size: 0.85em; text-align: justify;"> Presentations: 20th CESifo Workshop on Political Economy, 5th Women in Political Economics Workshop, Dauphine University LEDa seminar, ENCHOS VIII, Diversity and Human Capital Workshop, Workshop on Media, Identity and Norms, NICEP, LSE Economic History Graduate Seminar, Queen Mary University of London, Berlin Colloquium in Economic History, IEB Workshop on Political Economy, AFEPOP, Yale–UB HPE Workshop, European meeting of the UEA, XVI COSME Gender Economics Workshop, EEAYE, EHS, IMERA-AMSE Workshop in Gender inequalities, Development Reading Group at Boston University, Graduate Workshop in Economic History at Harvard University, World Cliometrics Conference, LAGV, AFSE, FRESH Workshop, IRES Lunch Seminar and Lewis Lab Graduate Student Workshop.</p>
+      <p style="font-size: 0.85em; text-align: justify;"> Abstract: Can exposure to women's political mobilization during formative years shape gender roles? I study the causal impact of a march organized in 1913  between Newark and Washington, DC, to advocate for women's suffrage, which highly increased women's political visibility in towns along its route. I combine newly digitized data on the march itinerary with newspaper archives and linked census records. Comparing over time towns along the route to comparable towns along a nearby major road, I implement an event-study and a triple-difference design. Newspaper evidence indicates that the march led to a sustained increase in the local visibility of women in public life, beyond the one-time demonstration. Consistent with this, although gender roles were already evolving, exposure to the march--and to the sustained increase in women's political participation--appears to have accelerated this transformation. Women exposed during formative years are more likely to report being ``gainfully employed," delay marriage, and postpone fertility. </p>
   </div>
 </div>
 
 <!-- ===================== WORK IN PROGRESS ===================== -->
 <h4 style="margin: 40px 0 20px 0; border-bottom: 1px solid #ddd; padding-bottom: 5px;">Work in progress</h4>
 
-<!-- Projet 2 - Image flottante à droite -->
+<!-- Projet 2 -->
 <div style="margin-bottom: 30px; overflow: hidden;">
   <img src="/assets/img/highway.PNG" style="width: 170px; height: 170px; object-fit: cover; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Highways research">
-  
+
   <h5 style="margin: 0 0 5px 0;"><strong>• Roads, employment and education: evidence from the US rural highways</strong></h5>
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://sites.google.com/site/clementbosquet/">C. Bosquet</a> [draft upon request]</p>
 
@@ -70,28 +61,18 @@ nav_order: 3
                  transition: background-color 0.3s, transform 0.2s;">
       Abstract <span id="arrow-abstract2" class="arrow" style="font-size: 0.7em;">▼</span>
   </button>
-  <button onclick="toggleContent('presentation2')" 
-          style="padding: 3px 6px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
-                 background-color: #f0f0f0; border-radius: 3px; cursor: pointer; 
-                 transition: background-color 0.3s, transform 0.2s;">
-      Presentation <span id="arrow-presentation2" class="arrow" style="font-size: 0.7em;">▼</span>
-  </button>
 
   <div id="abstract2" style="display: none; margin-top: 10px;">
       <p style="font-size: 0.85em; text-align: justify;"> Abstract: We study the employment responses of teenagers to changes in local economic opportunities induced by improvements in transport infrastructure, and the potential consequences for education and longer-term life trajectories. We exploit the timeline of US highway construction in the mid-20th century and combine US Census data from 1940 to 1980 with historical records on highway locations and opening times. Employing an established instrumental variable to account for the non-random placement of highways combined with a difference-in-differences strategy, we find that road connectivity increases participation in the labor market. This effect is primarily driven by teenage boys starting to work as (unpaid family) farm laborers in the agricultural sector, whose employment share has declined at a slower rate in connected counties. Finally, although evidence suggests no significant short-term impact on educational enrollment, further investigation indicates that the employment effects of early connection to the highway network persist into adulthood and are associated with a lower level of welfare.</p>
   </div>
-  <div id="presentation2" style="display: none; margin-top: 10px;">
-      <p style="font-size: 0.85em; text-align: justify;"> Presentations: RES & SES Annual Conference, European Winter Meeting of the Econometric Society, Decentralized Mobility and Electricity Working Group Seminar, North American meeting of the UEA, EALE, JMA, European meeting of the UEA, RGS and ADRES.</p>
-  </div>
 </div>
 
-<!-- Projet 3 - Image flottante à droite -->
+<!-- Projet 3 -->
 <div style="margin-bottom: 30px; overflow: hidden;">
   <img src="/assets/img/miscegenation.PNG" style="width: 170px; height: 170px; object-fit: cover; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Interracial marriage research">
-  
+
   <h5 style="margin: 0 0 5px 0;"><strong>• Forbidden love: the impact of banning interracial marriages</strong></h5>
-  <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://sites.google.com/view/bjoernbrey/home">B. Brey</a>
-  and <a href="https://sites.google.com/site/rziparo/">R. Ziparo</a> [draft upon request]</p>
+  <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://sites.google.com/view/bjoernbrey/home">B. Brey</a> and <a href="https://sites.google.com/site/rziparo/">R. Ziparo</a> [draft upon request]</p>
 
   <button onclick="toggleContent('abstract3')" 
           style="padding: 3px 6px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
@@ -99,25 +80,16 @@ nav_order: 3
                  transition: background-color 0.3s, transform 0.2s;">
       Abstract <span id="arrow-abstract3" class="arrow" style="font-size: 0.7em;">▼</span>
   </button>
-  <button onclick="toggleContent('presentation3')" 
-          style="padding: 3px 6px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
-                 background-color: #f0f0f0; border-radius: 3px; cursor: pointer; 
-                 transition: background-color 0.3s, transform 0.2s;">
-      Presentation <span id="arrow-presentation3" class="arrow" style="font-size: 0.7em;">▼</span>
-  </button>
 
   <div id="abstract3" style="display: none; margin-top: 10px;">
       <p style="font-size: 0.85em; text-align: justify;"> Abstract: Following the Civil War, miscegenation laws were introduced across the United States. These laws declared interracial marriages "prohibited and void," making them a cornerstone policy of segregation. According to Cox (1960), the primary motive behind the adoption of these laws was to prevent Black Americans from climbing the social ladder. Thus, by exploiting the staggered adoption of these laws across states, we test the hypothesis that their adoption contributed to maintaining the economic disparities between racial groups, inherited from slavery. To do so, we combine information on state-level miscegenation laws with individual data from the US censuses (1870-1940) and implement a generalized difference-in-differences strategy. Our results indicate that the laws increased the probability of Black Americans being employed as farmworkers by approximately 3%, and decreased the likelihood of being farm managers by 53%. These findings suggest that the implementation of miscegenation laws contributed to maintaining an exploitative agricultural system. Our results are robust to testing for pre-trends and implementing advanced staggered difference-in-differences techniques.</p>
   </div>
-  <div id="presentation3" style="display: none; margin-top: 10px;">
-      <p style="font-size: 0.85em; text-align: justify;"> Presentations: EHA, AMSE PhD Seminar and EHS.</p>
-  </div>
 </div>
 
-<!-- Projet 4 - Image flottante à droite -->
+<!-- Projet 4 -->
 <div style="margin-bottom: 30px; overflow: hidden;">
   <img src="/assets/img/womenvoter.png" style="width: 170px; height: 170px; object-fit: cover; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Political participation research">
-  
+
   <h5 style="margin: 0 0 5px 0;"><strong>• Peer effects in women's political participation</strong></h5>
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://vincentbagilet.github.io/">V. Bagilet</a> [draft upon request]</p>
 
@@ -138,7 +110,7 @@ nav_order: 3
   <img src="/assets/img/marche1983.png" style="width: 170px; height: 170px; object-fit: cover; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="1983 March for Equality">
 
   <h5 style="margin: 0 0 5px 0;"><strong>• The political consequences of the 1983 March for Equality and Against Racism</strong></h5>
-  <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://camiloumanadajud.com/">C. Umana Dajud</a> and <a href="https://sites.google.com/view/valettejerome/home">J. Valette</a> [draft upon request]</p>
+  <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://camiloumanadajud.com/">C. Umana Dajud</a> and <a href="https://sites.google.com/view/valettejerome/home">J. Valette</a></p>
 
   <button onclick="toggleContent('abstract5')" 
           style="padding: 3px 6px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
@@ -148,7 +120,7 @@ nav_order: 3
   </button>
 
   <div id="abstract5" style="display: none; margin-top: 10px;">
-      <p style="font-size: 0.85em; text-align: justify;"> Abstract: This paper studies how natives respond when second-generation immigrants mobilize and become politically salient, using geographic variation in exposure to France's 1983 March for Equality and Against Racism, the first nationwide protest led by the children of postcolonial immigrants. Relying on archival sources, we reconstruct the march's most likely route and combine it with municipal returns from legislative elections between 1967 and 2012. A difference-in-differences design then compares the evolution of vote shares in municipalities closer to the announced route with that in nearby municipalities farther from it. The results show a persistent backlash. After 1983, municipalities nearer the route experienced a 1.9-percentage-point increase in the vote share of anti-immigration right-wing candidates, mostly at the expense of the incumbent Socialist left, and this effect remained detectable for nearly fifteen years. Additional placebo tests and an instrumental-variables strategy based on deviations between the announced and documented routes support the causal interpretation of the estimates. Exploiting rainfall at the estimated time of passage, we also find a stronger backlash when rain likely limited opportunities for direct contact, suggesting that contact attenuated the threat response.</p>
+      <p style="font-size: 0.85em; text-align: justify;"> Abstract: This paper studies how natives respond when second-generation immigrants mobilize and become politically salient, using geographic variation in exposure to France's 1983 March for Equality and Against Racism, the first nationwide protest led by the children of postcolonial immigrants. Relying on archival sources, we reconstruct the march's most likely route and combine it with municipal returns from legislative elections between 1967 and 2012. A difference-in-differences design then compares the evolution of vote shares in municipalities closer to the announced route with that in nearby municipalities farther from it. The results show a persistent backlash. After 1983, municipalities nearer the route experienced a X-percentage-point increase in the vote share of anti-immigration right-wing candidates, mostly at the expense of the incumbent Socialist left, and this effect remained detectable for nearly fifteen years. Additional placebo tests and an instrumental-variables strategy based on deviations between the announced and documented routes support the causal interpretation of the estimates. Exploiting rainfall at the estimated time of passage, we also find a stronger backlash when rain likely limited opportunities for direct contact, suggesting that contact attenuated the threat response.</p>
   </div>
 </div>
 
