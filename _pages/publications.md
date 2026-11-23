@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 <!-- ===================== WORKING PAPERS ===================== -->
-<h4 style="margin: 10px 0 20px 0; border-bottom: 1px solid #ddd; padding-bottom: 5px;">Working papers</h4>
+<h4 style="margin: 10px 0 20px 0; border-bottom: 1px solid #ddd; padding-bottom: 5px;">Working paper</h4>
 
 <!-- Projet 1 - Image flottante à droite -->
 <div style="margin-bottom: 30px; overflow: hidden;">
