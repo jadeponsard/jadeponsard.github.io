@@ -7,6 +7,13 @@ nav: true
 nav_order: 3
 ---
 
+
+<style>
+  article button {
+    margin-bottom: 8px;
+  }
+</style>
+
 <!-- ===================== WORKING PAPERS ===================== -->
 <h4 style="margin: 10px 0 20px 0; border-bottom: 1px solid #ddd; padding-bottom: 5px;">Working paper</h4>
 
