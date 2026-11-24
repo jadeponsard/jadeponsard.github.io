@@ -15,8 +15,8 @@ social: true # includes social icons at the bottom of the page
 ---
 <style>
   /* Couleur d'accent : change cette valeur pour changer la couleur de la page */
-  :root { --accent: #3A1C22; }
-  .about-content a { color: var(--accent); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; text-decoration-color: rgba(58, 28, 34, 0.35); }
+  :root { --accent: #4A2C1C; }
+  .about-content a { color: var(--accent); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; text-decoration-color: rgba(74, 44, 28, 0.35); }
   .about-content a:hover { color: var(--accent); text-decoration-color: var(--accent); }
   .about-content a.cv-btn {
     display: inline-block;
