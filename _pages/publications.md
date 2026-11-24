@@ -8,16 +8,36 @@ nav_order: 3
 ---
 
 <style>
-  article button {
-    margin-bottom: 8px;
+  /* Couleur d'accent : change cette valeur pour changer la couleur de toute la page */
+  :root { --accent: #3F3D99; }
+  /* Liens (co-auteurs, prix) */
+  article a { color: var(--accent); text-decoration: none; }
+  article a:hover { text-decoration: underline; }
+  /* Titres de section */
+  article h4.section { margin: 10px 0 20px 0; padding-bottom: 5px; border-bottom: 1px solid var(--accent); }
+  /* Boutons Working paper / Abstract */
+  article button.rbtn {
+    font-size: 0.72em;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    padding: 3px 9px;
+    margin: 0 6px 8px 0;
+    color: var(--accent);
+    background: transparent;
+    border: 1px solid var(--accent);
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.2s, color 0.2s;
   }
+  article button.rbtn:hover { background: var(--accent); color: #fff; }
+  article button.rbtn:focus { outline: none; }
 </style>
 
 <p style="text-align: justify; margin: 10px 0 35px 0;">
 My research lies at the intersection of economic history, political economy, and urban economics. I explore three main themes: (i) the effects of collective action on social roles and political behavior; (ii) the diffusion of political participation and the consequences of expanding voting rights; and (iii) the role of institutions and infrastructure in shaping economic inequalities and individual trajectories. Across these themes, my work places particular emphasis on gender and historically marginalized groups.</p>
 
 <!-- ===================== WORKING PAPER ===================== -->
-<h4 style="margin: 10px 0 20px 0; border-bottom: 1px solid #ddd; padding-bottom: 5px;">Working Paper</h4>
+<h4 class="section">Working Paper</h4>
 
 <!-- Projet 1 -->
 <div style="margin-bottom: 30px; overflow: hidden;">
@@ -25,17 +45,11 @@ My research lies at the intersection of economic history, political economy, and
 
   <h5 style="margin: 0 0 5px 0;"><strong>Women's Political Mobilization and Gender Roles</strong></h5>
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">Runner-up for the <a href="https://urbaneconomics.org/meetings/awards.html" target="_blank" rel="noopener">EMUEA 2024 Best Student Paper</a></p>
-  
-  <button onclick="window.open('https://hal.science/hal-05868059', '_blank')" 
-          style="padding: 3px 6px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
-                 background-color: #f0f0f0; border-radius: 3px; cursor: pointer; 
-                 transition: background-color 0.3s, transform 0.2s;">
+
+  <button class="rbtn" onclick="window.open('https://hal.science/hal-05868059', '_blank')">
       Working paper
   </button>
-  <button onclick="toggleContent('abstract1')" 
-          style="padding: 3px 6px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
-                 background-color: #f0f0f0; border-radius: 3px; cursor: pointer; 
-                 transition: background-color 0.3s, transform 0.2s;">
+  <button class="rbtn" onclick="toggleContent('abstract1')">
       Abstract <span id="arrow-abstract1" class="arrow" style="font-size: 0.7em;">▼</span>
   </button>
 
@@ -45,7 +59,7 @@ My research lies at the intersection of economic history, political economy, and
 </div>
 
 <!-- ===================== WORK IN PROGRESS ===================== -->
-<h4 style="margin: 40px 0 20px 0; border-bottom: 1px solid #ddd; padding-bottom: 5px;">Work in Progress</h4>
+<h4 class="section" style="margin-top: 40px;">Work in Progress</h4>
 
 <!-- Projet 2 -->
 <div style="margin-bottom: 30px; overflow: hidden;">
@@ -54,10 +68,7 @@ My research lies at the intersection of economic history, political economy, and
   <h5 style="margin: 0 0 5px 0;"><strong>Roads, Employment and Education: Evidence from the US Rural Highways</strong></h5>
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://sites.google.com/site/clementbosquet/">C. Bosquet</a> [draft upon request]</p>
 
-  <button onclick="toggleContent('abstract2')" 
-          style="padding: 3px 6px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
-                 background-color: #f0f0f0; border-radius: 3px; cursor: pointer; 
-                 transition: background-color 0.3s, transform 0.2s;">
+  <button class="rbtn" onclick="toggleContent('abstract2')">
       Abstract <span id="arrow-abstract2" class="arrow" style="font-size: 0.7em;">▼</span>
   </button>
 
@@ -73,10 +84,7 @@ My research lies at the intersection of economic history, political economy, and
   <h5 style="margin: 0 0 5px 0;"><strong>Forbidden Love: The Impact of Banning Interracial Marriages</strong></h5>
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://sites.google.com/view/bjoernbrey/home">B. Brey</a> and <a href="https://sites.google.com/site/rziparo/">R. Ziparo</a> [draft upon request]</p>
 
-  <button onclick="toggleContent('abstract3')" 
-          style="padding: 3px 6px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
-                 background-color: #f0f0f0; border-radius: 3px; cursor: pointer; 
-                 transition: background-color 0.3s, transform 0.2s;">
+  <button class="rbtn" onclick="toggleContent('abstract3')">
       Abstract <span id="arrow-abstract3" class="arrow" style="font-size: 0.7em;">▼</span>
   </button>
 
@@ -92,10 +100,7 @@ My research lies at the intersection of economic history, political economy, and
   <h5 style="margin: 0 0 5px 0;"><strong>Network Effects in Women's Political Participation</strong></h5>
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://vincentbagilet.github.io/">V. Bagilet</a> [draft upon request]</p>
 
-  <button onclick="toggleContent('abstract4')" 
-          style="padding: 3px 6px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
-                 background-color: #f0f0f0; border-radius: 3px; cursor: pointer; 
-                 transition: background-color 0.3s, transform 0.2s;">
+  <button class="rbtn" onclick="toggleContent('abstract4')">
       Abstract <span id="arrow-abstract4" class="arrow" style="font-size: 0.7em;">▼</span>
   </button>
 
@@ -111,10 +116,7 @@ My research lies at the intersection of economic history, political economy, and
   <h5 style="margin: 0 0 5px 0;"><strong>Here to Stay: Second-Generation Mobilization and Anti-Immigration Voting</strong></h5>
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://camiloumanadajud.com/">C. Umana Dajud</a> and <a href="https://sites.google.com/view/valettejerome/home">J. Valette</a></p>
 
-  <button onclick="toggleContent('abstract5')" 
-          style="padding: 3px 6px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
-                 background-color: #f0f0f0; border-radius: 3px; cursor: pointer; 
-                 transition: background-color 0.3s, transform 0.2s;">
+  <button class="rbtn" onclick="toggleContent('abstract5')">
       Abstract <span id="arrow-abstract5" class="arrow" style="font-size: 0.7em;">▼</span>
   </button>
 
