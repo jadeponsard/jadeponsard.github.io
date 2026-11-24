@@ -90,7 +90,7 @@ nav_order: 3
 <div style="margin-bottom: 30px; overflow: hidden;">
   <img src="/assets/img/womenvoter.png" style="width: 170px; height: 170px; object-fit: cover; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Political participation research">
 
-  <h5 style="margin: 0 0 5px 0;"><strong>Peer Effects in Women's Political Participation</strong></h5>
+  <h5 style="margin: 0 0 5px 0;"><strong>Network Effects in Women's Political Participation</strong></h5>
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://vincentbagilet.github.io/">V. Bagilet</a> [draft upon request]</p>
 
   <button onclick="toggleContent('abstract4')" 
@@ -101,7 +101,7 @@ nav_order: 3
   </button>
 
   <div id="abstract4" style="display: none; margin-top: 10px;">
-      <p style="font-size: 0.85em; text-align: justify;"> Abstract: To what extent does horizontal norm transmission shape women's voting culture? This paper examines how exposure to neighbors with entrenched voting norms can influence the likelihood of registering to vote. To quantify potential peer effects, we focus on women neighbors who migrated to Boston from U.S. states where women had been enfranchised prior to 1920, the year women gained the right to vote nationwide. Using precise residential addresses, we reconstruct fine-grained neighborhood communities and local social networks. We then aim to study the impact of exposure to women from early-suffrage states on both the behavior and normative beliefs of their women neighbors, exploiting idiosyncratic variation at the block level: while households may select their neighborhood, the specific block of residence is largely determined by quasi-random factors. Preliminary evidence suggests that women living near migrants from early-suffrage states were more likely to register to vote.</p>
+      <p style="font-size: 0.85em; text-align: justify;"> Abstract: To what extent does horizontal norm transmission shape women's voting culture? This paper examines how exposure to neighbors with entrenched voting norms can influence the likelihood of registering to vote. To quantify potential network effects, we focus on women neighbors who migrated to Boston from U.S. states where women had been enfranchised prior to 1920, the year women gained the right to vote nationwide. Using precise residential addresses, we reconstruct fine-grained neighborhood communities and local social networks. We then aim to study the impact of exposure to women from early-suffrage states on both the behavior and normative beliefs of their women neighbors, exploiting idiosyncratic variation at the block level: while households may select their neighborhood, the specific block of residence is largely determined by quasi-random factors. Preliminary evidence suggests that women living near migrants from early-suffrage states were more likely to register to vote.</p>
   </div>
 </div>
 
@@ -109,7 +109,7 @@ nav_order: 3
 <div style="margin-bottom: 30px; overflow: hidden;">
   <img src="/assets/img/marche1983.png" style="width: 170px; height: 170px; object-fit: cover; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="1983 March for Equality">
 
-  <h5 style="margin: 0 0 5px 0;"><strong>The Political Consequences of the 1983 March for Equality and Against Racism</strong></h5>
+  <h5 style="margin: 0 0 5px 0;"><strong>Here to Stay: Second-Generation Mobilization and Anti-Immigration Voting</strong></h5>
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://camiloumanadajud.com/">C. Umana Dajud</a> and <a href="https://sites.google.com/view/valettejerome/home">J. Valette</a></p>
 
   <button onclick="toggleContent('abstract5')" 
