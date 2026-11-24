@@ -119,3 +119,23 @@ html[data-theme-setting="light"] {
     display: block;
   }
 }
+
+/*******************************************************************************
+ * Typographie : JetBrains Mono sur tout le site
+ ******************************************************************************/
+
+body,
+h1, h2, h3, h4, h5, h6,
+.navbar,
+.post-title,
+button,
+.btn,
+input,
+textarea {
+  font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace !important;
+}
+
+/* Une police à chasse fixe est plus large : on réduit un peu la taille du texte */
+body {
+  font-size: 0.92rem;
+}
