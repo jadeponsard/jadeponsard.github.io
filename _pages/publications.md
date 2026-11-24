@@ -9,10 +9,10 @@ nav_order: 3
 
 <style>
   /* Couleur d'accent : change cette valeur pour changer la couleur de toute la page */
-  :root { --accent: #3F3D99; }
+  :root { --accent: #3A1C22; }
   /* Liens (co-auteurs, prix) */
-  article a { color: var(--accent); text-decoration: none; }
-  article a:hover { text-decoration: underline; }
+  article a { color: var(--accent); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; text-decoration-color: rgba(58, 28, 34, 0.35); }
+  article a:hover { color: var(--accent); text-decoration-color: var(--accent); }
   /* Titres de section */
   article h4.section { margin: 10px 0 20px 0; padding-bottom: 5px; border-bottom: 1px solid var(--accent); }
   /* Boutons Working paper / Abstract */
