@@ -36,7 +36,7 @@ social: true # includes social icons at the bottom of the page
   .about-profile img { border-radius: 10px; }
   /* Photo : remontée (ordinateur uniquement ; sur téléphone la photo reste sous le texte) */
   @media (min-width: 769px) {
-    .about-profile { margin-top: -70px; }
+    .about-profile { margin-top: -38px; }
   }
 </style>
 
