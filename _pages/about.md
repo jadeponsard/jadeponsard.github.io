@@ -13,8 +13,29 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am a postdoctoral scholar at <a href="https://www.ens-lyon.fr/en/" target="_blank">**ENS de Lyon**</a> in the Department of Economics and the <a href=" https://www.cergic-lyon.fr/" target="_blank"> Center for Economic Research on Governance, Inequality and Conflict (CERGIC)</a>.
+<style>
+  /* Couleur d'accent : change cette valeur pour changer la couleur de la page */
+  :root { --accent: #3A1C22; }
+  .about-content a { color: var(--accent); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; text-decoration-color: rgba(58, 28, 34, 0.35); }
+  .about-content a:hover { color: var(--accent); text-decoration-color: var(--accent); }
+  .about-content a.cv-btn {
+    display: inline-block;
+    font-size: 0.8em;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    padding: 4px 12px;
+    margin-top: 5px;
+    color: var(--accent);
+    border: 1px solid var(--accent);
+    border-radius: 3px;
+    text-decoration: none;
+    transition: background-color 0.2s, color 0.2s;
+  }
+  .about-content a.cv-btn:hover { background: var(--accent); color: #fff; text-decoration: none; }
+</style>
+
+I am a postdoctoral scholar at <a href="https://www.ens-lyon.fr/en/" target="_blank">**ENS de Lyon**</a> in the Department of Economics and the <a href="https://www.cergic-lyon.fr/" target="_blank">Center for Economic Research on Governance, Inequality and Conflict (CERGIC)</a>.
 
 I am an applied microeconomist working at the intersection of **economic history**, **political economy**, and **urban economics**.
 
-You can find my **CV** <a href="https://drive.google.com/file/d/1Qo8B6riRNLgNNxSRDC7Sel0FLivIu-kk/view?usp=sharing" target="_blank" style="background-color: #f0f0f0; padding: 2px 5px; border-radius: 3px;">here</a>.
+<a class="cv-btn" href="https://drive.google.com/file/d/1Qo8B6riRNLgNNxSRDC7Sel0FLivIu-kk/view?usp=sharing" target="_blank">Curriculum Vitae</a>
