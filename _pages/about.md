@@ -33,10 +33,10 @@ social: true # includes social icons at the bottom of the page
   }
   .about-content a.cv-btn:hover { background: var(--accent); color: #fff; text-decoration: none; }
   /* Photo : coins arrondis */
-  .about-profile img { border-radius: 10px; }
+  .about-profile img { border-radius: 4px; }
   /* Photo : remontée (ordinateur uniquement ; sur téléphone la photo reste sous le texte) */
   @media (min-width: 769px) {
-    .about-profile { margin-top: -38px; }
+    .about-profile { margin-top: -40px; }
   }
 </style>
 
