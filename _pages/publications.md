@@ -41,7 +41,7 @@ My research lies at the intersection of economic history, political economy, and
 
 <!-- Projet 1 -->
 <div style="margin-bottom: 30px; overflow: hidden;">
-  <img src="/assets/img/suffrae_marche.jpg" style="width: 170px; height: 170px; object-fit: cover; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Suffrage research">
+  <img src="/assets/img/suffrae_marche.jpg" style="width: 170px; height: 170px; object-fit: cover; border-radius: 4px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Suffrage research">
 
   <h5 style="margin: 0 0 5px 0;"><strong>Women's Political Mobilization and Gender Roles</strong></h5>
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #8A6A58;">Runner-up for the <a href="https://urbaneconomics.org/meetings/awards.html" target="_blank" rel="noopener">EMUEA 2024 Best Student Paper</a></p>
@@ -63,7 +63,7 @@ My research lies at the intersection of economic history, political economy, and
 
 <!-- Projet 2 -->
 <div style="margin-bottom: 30px; overflow: hidden;">
-  <img src="/assets/img/highway.PNG" style="width: 170px; height: 170px; object-fit: cover; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Highways research">
+  <img src="/assets/img/highway.PNG" style="width: 170px; height: 170px; object-fit: cover; border-radius: 4px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Highways research">
 
   <h5 style="margin: 0 0 5px 0;"><strong>Roads, Employment and Education: Evidence from the US Rural Highways</strong></h5>
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #8A6A58;">With <a href="https://sites.google.com/site/clementbosquet/">C. Bosquet</a> [draft upon request]</p>
@@ -79,7 +79,7 @@ My research lies at the intersection of economic history, political economy, and
 
 <!-- Projet 3 -->
 <div style="margin-bottom: 30px; overflow: hidden;">
-  <img src="/assets/img/miscegenation.PNG" style="width: 170px; height: 170px; object-fit: cover; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Interracial marriage research">
+  <img src="/assets/img/miscegenation.PNG" style="width: 170px; height: 170px; object-fit: cover; border-radius: 4px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Interracial marriage research">
 
   <h5 style="margin: 0 0 5px 0;"><strong>Forbidden Love: The Impact of Banning Interracial Marriages</strong></h5>
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #8A6A58;">With <a href="https://sites.google.com/view/bjoernbrey/home">B. Brey</a> and <a href="https://sites.google.com/site/rziparo/">R. Ziparo</a> [draft upon request]</p>
@@ -95,7 +95,7 @@ My research lies at the intersection of economic history, political economy, and
 
 <!-- Projet 4 -->
 <div style="margin-bottom: 30px; overflow: hidden;">
-  <img src="/assets/img/womenvoter.png" style="width: 170px; height: 170px; object-fit: cover; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Political participation research">
+  <img src="/assets/img/womenvoter.png" style="width: 170px; height: 170px; object-fit: cover; border-radius: 4px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Political participation research">
 
   <h5 style="margin: 0 0 5px 0;"><strong>Network Effects in Women's Political Participation</strong></h5>
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #8A6A58;">With <a href="https://vincentbagilet.github.io/">V. Bagilet</a> [draft upon request]</p>
@@ -111,7 +111,7 @@ My research lies at the intersection of economic history, political economy, and
 
 <!-- Projet 5 : Marche de 1983 -->
 <div style="margin-bottom: 30px; overflow: hidden;">
-  <img src="/assets/img/marche1983.png" style="width: 170px; height: 170px; object-fit: cover; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="1983 March for Equality">
+  <img src="/assets/img/marche1983.png" style="width: 170px; height: 170px; object-fit: cover; border-radius: 4px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="1983 March for Equality">
 
   <h5 style="margin: 0 0 5px 0;"><strong>Here to Stay: Second-Generation Mobilization and Anti-Immigration Voting</strong></h5>
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #8A6A58;">With <a href="https://camiloumanadajud.com/">C. Umana Dajud</a> and <a href="https://sites.google.com/view/valettejerome/home">J. Valette</a></p>
@@ -127,7 +127,7 @@ My research lies at the intersection of economic history, political economy, and
 
 <!-- Projet 6 : When women vote -->
 <div style="margin-bottom: 30px; overflow: hidden;">
-  <img src="/assets/img/womenvote.png" style="width: 170px; height: 170px; object-fit: cover; object-position: top; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Women's suffrage and political platforms">
+  <img src="/assets/img/womenvote.png" style="width: 170px; height: 170px; object-fit: cover; object-position: top; border-radius: 4px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Women's suffrage and political platforms">
 
   <h5 style="margin: 0 0 5px 0;"><strong>When Women Vote: Political Platforms and the Expansion of Suffrage in the United States</strong></h5>
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #8A6A58;">With <a href="https://maximechabriel.github.io/">M. Chabriel</a> and <a href="https://sites.google.com/site/sophiehatte/">S. Hatte</a></p>
