@@ -52,7 +52,7 @@ My research lies at the intersection of economic history, political economy, and
       Working paper
   </button>
   <button class="rbtn" onclick="toggleContent('abstract1')">
-      Abstract <span id="arrow-abstract1" class="arrow" style="font-size: 0.7em;">▼</span>
+      Abstract
   </button>
 
   <div id="abstract1" style="display: none; margin-top: 10px;">
@@ -71,7 +71,7 @@ My research lies at the intersection of economic history, political economy, and
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #8A6A58;">With <a href="https://sites.google.com/site/clementbosquet/">C. Bosquet</a> [draft upon request]</p>
 
   <button class="rbtn" onclick="toggleContent('abstract2')">
-      Abstract <span id="arrow-abstract2" class="arrow" style="font-size: 0.7em;">▼</span>
+      Abstract
   </button>
 
   <div id="abstract2" style="display: none; margin-top: 10px;">
@@ -87,7 +87,7 @@ My research lies at the intersection of economic history, political economy, and
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #8A6A58;">With <a href="https://sites.google.com/view/bjoernbrey/home">B. Brey</a> and <a href="https://sites.google.com/site/rziparo/">R. Ziparo</a> [draft upon request]</p>
 
   <button class="rbtn" onclick="toggleContent('abstract3')">
-      Abstract <span id="arrow-abstract3" class="arrow" style="font-size: 0.7em;">▼</span>
+      Abstract
   </button>
 
   <div id="abstract3" style="display: none; margin-top: 10px;">
@@ -103,7 +103,7 @@ My research lies at the intersection of economic history, political economy, and
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #8A6A58;">With <a href="https://vincentbagilet.github.io/">V. Bagilet</a> [draft upon request]</p>
 
   <button class="rbtn" onclick="toggleContent('abstract4')">
-      Abstract <span id="arrow-abstract4" class="arrow" style="font-size: 0.7em;">▼</span>
+      Abstract
   </button>
 
   <div id="abstract4" style="display: none; margin-top: 10px;">
@@ -119,7 +119,7 @@ My research lies at the intersection of economic history, political economy, and
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #8A6A58;">With <a href="https://camiloumanadajud.com/">C. Umana Dajud</a> and <a href="https://sites.google.com/view/valettejerome/home">J. Valette</a></p>
 
   <button class="rbtn" onclick="toggleContent('abstract5')">
-      Abstract <span id="arrow-abstract5" class="arrow" style="font-size: 0.7em;">▼</span>
+      Abstract
   </button>
 
   <div id="abstract5" style="display: none; margin-top: 10px;">
@@ -138,13 +138,10 @@ My research lies at the intersection of economic history, political economy, and
 <script>
 function toggleContent(contentId) {
     var content = document.getElementById(contentId);
-    var arrow = document.getElementById('arrow-' + contentId);
     if (content.style.display === "none") {
         content.style.display = "block";
-        arrow.textContent = "▲";
     } else {
         content.style.display = "none";
-        arrow.textContent = "▼";
     }
 }
 </script>
