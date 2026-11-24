@@ -31,6 +31,8 @@ nav_order: 3
   }
   article button.rbtn:hover { background: var(--accent); color: #fff; }
   article button.rbtn:focus { outline: none; }
+  /* Taille des titres des projets */
+  article h5 { font-size: 1.05rem; line-height: 1.35; }
 </style>
 
 <p style="text-align: justify; margin: 10px 0 35px 0;">
