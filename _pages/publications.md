@@ -25,8 +25,8 @@ nav_order: 3
   <img src="/assets/img/suffrae_marche.jpg" style="width: 170px; height: 170px; object-fit: cover; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Suffrage research">
 
   <h5 style="margin: 0 0 5px 0;"><strong>Women's Political Mobilization and Gender Roles</strong></h5>
-  <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">Runner-up for the EMUEA 2024 Best Student Paper</p>
-
+  <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">Runner-up for the <a href="https://urbaneconomics.org/meetings/awards.html" target="_blank" rel="noopener">EMUEA 2024 Best Student Paper</a></p>
+  
   <button onclick="window.open('https://hal.science/hal-05868059', '_blank')" 
           style="padding: 3px 6px; font-size: 0.8em; margin-left: 5px; border: none; outline: none; 
                  background-color: #f0f0f0; border-radius: 3px; cursor: pointer; 
