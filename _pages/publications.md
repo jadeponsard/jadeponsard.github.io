@@ -18,13 +18,13 @@ nav_order: 3
 </p>
 
 <!-- ===================== WORKING PAPER ===================== -->
-<h4 style="margin: 10px 0 20px 0; border-bottom: 1px solid #ddd; padding-bottom: 5px;">Working paper</h4>
+<h4 style="margin: 10px 0 20px 0; border-bottom: 1px solid #ddd; padding-bottom: 5px;">Working Paper</h4>
 
 <!-- Projet 1 -->
 <div style="margin-bottom: 30px; overflow: hidden;">
   <img src="/assets/img/suffrae_marche.jpg" style="width: 170px; height: 170px; object-fit: cover; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Suffrage research">
 
-  <h5 style="margin: 0 0 5px 0;"><strong>• Women's political mobilization and gender roles</strong></h5>
+  <h5 style="margin: 0 0 5px 0;"><strong>Women's Political Mobilization and Gender Roles</strong></h5>
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">Runner-up for the EMUEA 2024 Best Student Paper</p>
 
   <button onclick="window.open('https://hal.science/hal-05868059', '_blank')" 
@@ -46,13 +46,13 @@ nav_order: 3
 </div>
 
 <!-- ===================== WORK IN PROGRESS ===================== -->
-<h4 style="margin: 40px 0 20px 0; border-bottom: 1px solid #ddd; padding-bottom: 5px;">Work in progress</h4>
+<h4 style="margin: 40px 0 20px 0; border-bottom: 1px solid #ddd; padding-bottom: 5px;">Work in Progress</h4>
 
 <!-- Projet 2 -->
 <div style="margin-bottom: 30px; overflow: hidden;">
   <img src="/assets/img/highway.PNG" style="width: 170px; height: 170px; object-fit: cover; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Highways research">
 
-  <h5 style="margin: 0 0 5px 0;"><strong>• Roads, employment and education: evidence from the US rural highways</strong></h5>
+  <h5 style="margin: 0 0 5px 0;"><strong>Roads, Employment and Education: Evidence from the US Rural Highways</strong></h5>
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://sites.google.com/site/clementbosquet/">C. Bosquet</a> [draft upon request]</p>
 
   <button onclick="toggleContent('abstract2')" 
@@ -71,7 +71,7 @@ nav_order: 3
 <div style="margin-bottom: 30px; overflow: hidden;">
   <img src="/assets/img/miscegenation.PNG" style="width: 170px; height: 170px; object-fit: cover; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Interracial marriage research">
 
-  <h5 style="margin: 0 0 5px 0;"><strong>• Forbidden love: the impact of banning interracial marriages</strong></h5>
+  <h5 style="margin: 0 0 5px 0;"><strong>Forbidden Love: The Impact of Banning Interracial Marriages</strong></h5>
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://sites.google.com/view/bjoernbrey/home">B. Brey</a> and <a href="https://sites.google.com/site/rziparo/">R. Ziparo</a> [draft upon request]</p>
 
   <button onclick="toggleContent('abstract3')" 
@@ -90,7 +90,7 @@ nav_order: 3
 <div style="margin-bottom: 30px; overflow: hidden;">
   <img src="/assets/img/womenvoter.png" style="width: 170px; height: 170px; object-fit: cover; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Political participation research">
 
-  <h5 style="margin: 0 0 5px 0;"><strong>• Peer effects in women's political participation</strong></h5>
+  <h5 style="margin: 0 0 5px 0;"><strong>Peer Effects in Women's Political Participation</strong></h5>
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://vincentbagilet.github.io/">V. Bagilet</a> [draft upon request]</p>
 
   <button onclick="toggleContent('abstract4')" 
@@ -109,7 +109,7 @@ nav_order: 3
 <div style="margin-bottom: 30px; overflow: hidden;">
   <img src="/assets/img/marche1983.png" style="width: 170px; height: 170px; object-fit: cover; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="1983 March for Equality">
 
-  <h5 style="margin: 0 0 5px 0;"><strong>• The political consequences of the 1983 March for Equality and Against Racism</strong></h5>
+  <h5 style="margin: 0 0 5px 0;"><strong>The Political Consequences of the 1983 March for Equality and Against Racism</strong></h5>
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://camiloumanadajud.com/">C. Umana Dajud</a> and <a href="https://sites.google.com/view/valettejerome/home">J. Valette</a></p>
 
   <button onclick="toggleContent('abstract5')" 
@@ -128,7 +128,7 @@ nav_order: 3
 <div style="margin-bottom: 30px; overflow: hidden;">
   <img src="/assets/img/womenvote.png" style="width: 170px; height: 170px; object-fit: cover; object-position: top; border-radius: 8px; float: right; margin-left: 25px; margin-bottom: 15px;" alt="Women's suffrage and political platforms">
 
-  <h5 style="margin: 0 0 5px 0;"><strong>• When women vote: political platforms and the expansion of suffrage in the United States</strong></h5>
+  <h5 style="margin: 0 0 5px 0;"><strong>When Women Vote: Political Platforms and the Expansion of Suffrage in the United States</strong></h5>
   <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #666;">With <a href="https://maximechabriel.github.io/">M. Chabriel</a> and <a href="https://sites.google.com/site/sophiehatte/">S. Hatte</a></p>
 </div>
 
