@@ -40,7 +40,7 @@ social: true # includes social icons at the bottom of the page
   }
 </style>
 
-I am a postdoctoral scholar at <a href="https://www.ens-lyon.fr/en/" target="_blank">**ENS de Lyon**</a> in the Department of Economics and the <a href="https://www.cergic-lyon.fr/" target="_blank">Center for Economic Research on Governance, Inequality and Conflict (CERGIC)</a>.
+I am a postdoctoral scholar at <a href="https://www.ens-lyon.fr/en/" target="_blank">ENS de Lyon</a> in the Department of Economics and the <a href="https://www.cergic-lyon.fr/" target="_blank">Center for Economic Research on Governance, Inequality and Conflict (CERGIC)</a>.
 
 I am an applied microeconomist working at the intersection of **economic history**, **political economy**, and **urban economics**.
 
