@@ -29,7 +29,7 @@ nav_order: 3
     cursor: pointer;
     transition: background-color 0.2s, color 0.2s;
   }
-  article button.rbtn:hover { background: var(--accent); color: #fff; }
+  article button.rbtn:hover { background: #444; border-color: #444; color: #fff; }
   article button.rbtn:focus { outline: none; }
   /* Taille des titres des projets */
   article h5, article h5 strong { font-size: 1.05rem; line-height: 1.35; font-weight: 700; }
