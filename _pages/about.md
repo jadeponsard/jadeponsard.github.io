@@ -31,7 +31,7 @@ social: true # includes social icons at the bottom of the page
     text-decoration: none;
     transition: background-color 0.2s, color 0.2s;
   }
-  .about-content a.cv-btn:hover { background: var(--accent); color: #fff; text-decoration: none; }
+  .about-content a.cv-btn:hover { background: #444; border-color: #444; color: #fff; text-decoration: none; }
   /* Photo : coins arrondis */
   .about-profile img { border-radius: 4px; }
   /* Photo : remontée (ordinateur uniquement ; sur téléphone la photo reste sous le texte) */
